@@ -1,0 +1,3281 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Location>100 Ave And 128 St</Location>
+    <Longitude>-122.8675527</Longitude>
+    <Latitude>49.18455146</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_100_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>100 Ave And 132 St</Location>
+    <Longitude>-122.8565216</Longitude>
+    <Latitude>49.18440272</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_100_132_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>100 Ave And 140 St</Location>
+    <Longitude>-122.8343099</Longitude>
+    <Latitude>49.18411369</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_100_140_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>100 Ave And 148 St</Location>
+    <Longitude>-122.8119064</Longitude>
+    <Latitude>49.18429764</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_100_148_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>100 Ave And 150 St</Location>
+    <Longitude>-122.8064857</Longitude>
+    <Latitude>49.18417792</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_100_150_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>100 Ave And 152 St</Location>
+    <Longitude>-122.8010466</Longitude>
+    <Latitude>49.18405074</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_100_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>100 Ave And 154 St</Location>
+    <Longitude>-122.7953554</Longitude>
+    <Latitude>49.18426503</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_100_154_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>100 Ave And 156 St</Location>
+    <Longitude>-122.7897923</Longitude>
+    <Latitude>49.18436117</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_100_156_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>100 Ave And 160 St</Location>
+    <Longitude>-122.7785995</Longitude>
+    <Latitude>49.18435037</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_100_160_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>100 Ave And King George Blvd</Location>
+    <Longitude>-122.8456936</Longitude>
+    <Latitude>49.18413655</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_100_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>100 Ave And King George Blvd</Location>
+    <Longitude>-122.8445151</Longitude>
+    <Latitude>49.18438927</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_100_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>100 Ave And Whalley Blvd</Location>
+    <Longitude>-122.8434192</Longitude>
+    <Latitude>49.18412534</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_100_whalley_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>101 Ave And 152 St</Location>
+    <Longitude>-122.8009062</Longitude>
+    <Latitude>49.18612768</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_101_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>102 Ave And 128 St</Location>
+    <Longitude>-122.8676945</Longitude>
+    <Latitude>49.18804067</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_102_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>102 Ave And 140 St</Location>
+    <Longitude>-122.8341561</Longitude>
+    <Latitude>49.18735619</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_102_140_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>102 Ave And City Parkway</Location>
+    <Longitude>-122.8476698</Longitude>
+    <Latitude>49.18786027</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_102_cityparkway_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>102 Ave And City Parkway</Location>
+    <Longitude>-122.8475835</Longitude>
+    <Latitude>49.18774911</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_cityparkway_102_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>102 Ave And King George Blvd</Location>
+    <Longitude>-122.845177</Longitude>
+    <Latitude>49.18774064</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_102_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>102 Ave And University Dr</Location>
+    <Longitude>-122.8503853</Longitude>
+    <Latitude>49.18838067</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_universitydr_102_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>102A Ave And 150 St</Location>
+    <Longitude>-122.8064513</Longitude>
+    <Latitude>49.18887483</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_102a_150_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>102A Ave And 152 St</Location>
+    <Longitude>-122.801073</Longitude>
+    <Latitude>49.18907306</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_10300blk_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>103 Ave And 160 St</Location>
+    <Longitude>-122.7787346</Longitude>
+    <Latitude>49.18944588</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_103_160_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>103 Ave And King George Blvd</Location>
+    <Longitude>-122.8453704</Longitude>
+    <Latitude>49.19011792</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_103_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>103A Ave And 120 St</Location>
+    <Longitude>-122.8905104</Longitude>
+    <Latitude>49.19070451</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_103a_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And 120 St</Location>
+    <Longitude>-122.889349</Longitude>
+    <Latitude>49.19358644</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And 128 St</Location>
+    <Longitude>-122.8675614</Longitude>
+    <Latitude>49.19162177</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And 132 St</Location>
+    <Longitude>-122.8565978</Longitude>
+    <Latitude>49.19175418</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_132_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And 140 St</Location>
+    <Longitude>-122.8341328</Longitude>
+    <Latitude>49.19147402</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_140_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And 142 St</Location>
+    <Longitude>-122.8286122</Longitude>
+    <Latitude>49.19150341</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_142_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And 144 St</Location>
+    <Longitude>-122.8232402</Longitude>
+    <Latitude>49.19161267</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_144_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And 146 St</Location>
+    <Longitude>-122.8175051</Longitude>
+    <Latitude>49.19150988</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_146_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And 148 St</Location>
+    <Longitude>-122.8125888</Longitude>
+    <Latitude>49.19158829</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_148_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And 150 St</Location>
+    <Longitude>-122.8065814</Longitude>
+    <Latitude>49.19137315</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_150_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And 152 St</Location>
+    <Longitude>-122.801057</Longitude>
+    <Latitude>49.19128428</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And 154 St</Location>
+    <Longitude>-122.795757</Longitude>
+    <Latitude>49.19142687</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_154_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And 156 St</Location>
+    <Longitude>-122.7895877</Longitude>
+    <Latitude>49.19149539</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_156_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And 158 St</Location>
+    <Longitude>-122.7818</Longitude>
+    <Latitude>49.19146137</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_hwy1_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And 168 St</Location>
+    <Longitude>-122.7564742</Longitude>
+    <Latitude>49.19161357</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_168_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And City Hall Driveway</Location>
+    <Longitude>-122.8496144</Longitude>
+    <Latitude>49.19164059</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104egress_cityhall_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And City Parkway</Location>
+    <Longitude>-122.8480186</Longitude>
+    <Latitude>49.19163148</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_cityparkway_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And City Parkway</Location>
+    <Longitude>-122.8480186</Longitude>
+    <Latitude>49.19163148</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_cityparkway_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And King George Blvd</Location>
+    <Longitude>-122.845579</Longitude>
+    <Latitude>49.19149235</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And King George Blvd</Location>
+    <Longitude>-122.8451678</Longitude>
+    <Latitude>49.19103377</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_kgbv_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And Old Yale Rd</Location>
+    <Longitude>-122.8634044</Longitude>
+    <Latitude>49.1916865</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_oldyale_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And University Dr</Location>
+    <Longitude>-122.8505598</Longitude>
+    <Latitude>49.19164171</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_universitydr_104_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>104 Ave And Whalley Blvd</Location>
+    <Longitude>-122.8420449</Longitude>
+    <Latitude>49.19145723</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_104_whalley_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>105 Ave And 132 St</Location>
+    <Longitude>-122.856446</Longitude>
+    <Latitude>49.1932628</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_105_132_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>105 Ave And 152 St</Location>
+    <Longitude>-122.8007046</Longitude>
+    <Latitude>49.19328928</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_105_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>105A Ave And King George Blvd</Location>
+    <Longitude>-122.8451195</Longitude>
+    <Latitude>49.19422826</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_105a_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>105A Ave And University Dr</Location>
+    <Longitude>-122.8508667</Longitude>
+    <Latitude>49.19446477</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_105a_university_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>105A Ave And Whalley Blvd</Location>
+    <Longitude>-122.8424194</Longitude>
+    <Latitude>49.19442147</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_105a_whalley_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>107A Ave And King George Blvd</Location>
+    <Longitude>-122.8452671</Longitude>
+    <Latitude>49.19742792</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_107a_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>107A Ave And King George Blvd</Location>
+    <Longitude>-122.8453903</Longitude>
+    <Latitude>49.19733253</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_107a_kgbv_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>108 Ave And 132 St</Location>
+    <Longitude>-122.8563242</Longitude>
+    <Latitude>49.20158096</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_108_132_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>108 Ave And 139 St</Location>
+    <Longitude>-122.8369324</Longitude>
+    <Latitude>49.19885295</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_108_139_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>108 Ave And 140 St</Location>
+    <Longitude>-122.834224</Longitude>
+    <Latitude>49.1987234</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_108_140_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>108 Ave And 144 St</Location>
+    <Longitude>-122.8230237</Longitude>
+    <Latitude>49.19878566</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_108_144_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>108 Ave And 148 St</Location>
+    <Longitude>-122.8122902</Longitude>
+    <Latitude>49.19864093</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_108_148_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>108 Ave And 150 St</Location>
+    <Longitude>-122.8061134</Longitude>
+    <Latitude>49.19880655</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_108_150_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>108 Ave And 156 St</Location>
+    <Longitude>-122.7898317</Longitude>
+    <Latitude>49.19820546</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_108_156_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>108 Ave And 160 St</Location>
+    <Longitude>-122.7785438</Longitude>
+    <Latitude>49.19890104</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_108_160_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>108 Ave And King George Blvd</Location>
+    <Longitude>-122.8453557</Longitude>
+    <Latitude>49.19874824</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_108_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>108 Ave And Oriole Dr</Location>
+    <Longitude>-122.8086192</Longitude>
+    <Latitude>49.19873139</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_108_oriole_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>108 Ave And University Dr</Location>
+    <Longitude>-122.8510506</Longitude>
+    <Latitude>49.19879504</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_universitydr_108_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>108 Ave And Whalley Blvd</Location>
+    <Longitude>-122.8423436</Longitude>
+    <Latitude>49.19878837</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_108_whalley_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>110 Ave And 120 St</Location>
+    <Longitude>-122.8786924</Longitude>
+    <Latitude>49.20285249</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_110_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>115 Ave And Bridgeview Dr</Location>
+    <Longitude>-122.8618741</Longitude>
+    <Latitude>49.21122981</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_115_bridgeview_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>14 Ave And King George Blvd</Location>
+    <Longitude>-122.7713062</Longitude>
+    <Latitude>49.02786231</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_14_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>152 Ave And 152 St Ftg Rd</Location>
+    <Longitude>-122.8012322</Longitude>
+    <Latitude>49.09269238</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_152_152fg_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>16 Ave And 136 St</Location>
+    <Longitude>-122.8454191</Longitude>
+    <Latitude>49.0312246</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_16_136_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>16 Ave And 140 St</Location>
+    <Longitude>-122.8342116</Longitude>
+    <Latitude>49.03108694</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_16_140_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>16 Ave And 148 St</Location>
+    <Longitude>-122.8120897</Longitude>
+    <Latitude>49.03108732</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_16_148_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>16 Ave And 152 St</Location>
+    <Longitude>-122.8013547</Longitude>
+    <Latitude>49.03121377</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_16_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>16 Ave And 152 St</Location>
+    <Longitude>-122.8005668</Longitude>
+    <Latitude>49.03120367</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_16_152_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>16 Ave And 154 St</Location>
+    <Longitude>-122.7956855</Longitude>
+    <Latitude>49.031104</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_16_154_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>16 Ave And 160 St</Location>
+    <Longitude>-122.7791936</Longitude>
+    <Latitude>49.03105989</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_16_160_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>16 Ave And 168 St</Location>
+    <Longitude>-122.7569806</Longitude>
+    <Latitude>49.03099997</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_16_168_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>16 Ave And 184 St</Location>
+    <Longitude>-122.7133601</Longitude>
+    <Latitude>49.03120489</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_16_184_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>16 Ave And 192 St</Location>
+    <Longitude>-122.6911789</Longitude>
+    <Latitude>49.03100236</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_16_192_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>16 Ave And Foster St</Location>
+    <Longitude>-122.8039632</Longitude>
+    <Latitude>49.03112541</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_16_foster_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>16 Ave And King George Blvd</Location>
+    <Longitude>-122.77581</Longitude>
+    <Latitude>49.0311406</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_16_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>16 Ave And Martin Dr</Location>
+    <Longitude>-122.805301</Longitude>
+    <Latitude>49.03113015</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_16_martin_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>17 Ave And 152 St</Location>
+    <Longitude>-122.8011817</Longitude>
+    <Latitude>49.03294132</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_17_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>176 St And 56 Ave</Location>
+    <Longitude>-122.738298</Longitude>
+    <Latitude>49.1039904</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/83.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>176 St And 56 Ave</Location>
+    <Longitude>-122.738465</Longitude>
+    <Latitude>49.10408167</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/84.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>176 St And 56 Ave</Location>
+    <Longitude>-122.7382944</Longitude>
+    <Latitude>49.10416014</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/85.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>176 St And 8 Ave</Location>
+    <Longitude>-122.7352445</Longitude>
+    <Latitude>49.01657723</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/477.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>176 St And 8 Ave</Location>
+    <Longitude>-122.7352307</Longitude>
+    <Latitude>49.01673857</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/447.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>18 Ave And 152 St</Location>
+    <Longitude>-122.8013883</Longitude>
+    <Latitude>49.03465145</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_18_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>2 Ave And No 99 Hwy</Location>
+    <Longitude>-122.7347882</Longitude>
+    <Latitude>49.00704947</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/494.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>20 Ave And 148 St</Location>
+    <Longitude>-122.812239</Longitude>
+    <Latitude>49.03840852</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_20_148_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>20 Ave And 152 St</Location>
+    <Longitude>-122.8013661</Longitude>
+    <Latitude>49.03827304</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_20_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>20 Ave And King George Blvd</Location>
+    <Longitude>-122.7844311</Longitude>
+    <Latitude>49.03814266</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_20_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>24 Ave And 140 St</Location>
+    <Longitude>-122.8344084</Longitude>
+    <Latitude>49.04572753</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_24_140_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>24 Ave And 148 St</Location>
+    <Longitude>-122.8123668</Longitude>
+    <Latitude>49.04553779</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_24_148_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>24 Ave And 152 St</Location>
+    <Longitude>-122.8013078</Longitude>
+    <Latitude>49.04550048</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_24_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>24 Ave And 152 St</Location>
+    <Longitude>-122.8013391</Longitude>
+    <Latitude>49.04524743</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_24_152_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>24 Ave And 154 St</Location>
+    <Longitude>-122.7956978</Longitude>
+    <Latitude>49.04560199</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_24_154_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>24 Ave And 156 St</Location>
+    <Longitude>-122.7902013</Longitude>
+    <Latitude>49.04558333</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_24_156_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>24 Ave And 160 St</Location>
+    <Longitude>-122.778919</Longitude>
+    <Latitude>49.04539155</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_24_160_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>24 Ave And 168 St</Location>
+    <Longitude>-122.7570313</Longitude>
+    <Latitude>49.04568133</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_24_168_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>24 Ave And 192 St</Location>
+    <Longitude>-122.6912768</Longitude>
+    <Latitude>49.04557417</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_24_192_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>24 Ave And Croydon Dr</Location>
+    <Longitude>-122.7827999</Longitude>
+    <Latitude>49.04555923</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_24_croydon_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>24 Ave And King George Blvd</Location>
+    <Longitude>-122.7932209</Longitude>
+    <Latitude>49.04550933</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_24_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>26 Ave And King George Blvd</Location>
+    <Longitude>-122.7980629</Longitude>
+    <Latitude>49.04922803</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_26_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>28 Ave And 148 St</Location>
+    <Longitude>-122.8122815</Longitude>
+    <Latitude>49.05291767</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_28_148_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>28 Ave And 160 St</Location>
+    <Longitude>-122.7791892</Longitude>
+    <Latitude>49.05280927</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_28_160_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>32 Ave And 152 St</Location>
+    <Longitude>-122.8009323</Longitude>
+    <Latitude>49.06144988</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_32_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>32 Ave And 152 St</Location>
+    <Longitude>-122.8017902</Longitude>
+    <Latitude>49.06147885</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_32_152_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>32 Ave And 160 St</Location>
+    <Longitude>-122.7792977</Longitude>
+    <Latitude>49.05996295</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_32_160_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>32 Ave And 168 St</Location>
+    <Longitude>-122.7567136</Longitude>
+    <Latitude>49.06042526</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_32_168_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>32 Ave And 172 St</Location>
+    <Longitude>-122.7458173</Longitude>
+    <Latitude>49.06006911</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_32_172_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>32 Ave And 184 St</Location>
+    <Longitude>-122.7134357</Longitude>
+    <Latitude>49.06016176</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_32_184_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>32 Ave And 192 St</Location>
+    <Longitude>-122.6913604</Longitude>
+    <Latitude>49.06020363</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_32_192_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>32 Ave And 32 Ave Div</Location>
+    <Longitude>-122.8071123</Longitude>
+    <Latitude>49.06029431</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_32_32div_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>32 Ave And Croydon</Location>
+    <Longitude>-122.797161</Longitude>
+    <Latitude>49.06066026</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_32_croydon_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>34 Ave And 152 St</Location>
+    <Longitude>-122.8011868</Longitude>
+    <Latitude>49.06374022</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_34_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>34 Ave And King George Blvd</Location>
+    <Longitude>-122.8174113</Longitude>
+    <Latitude>49.06484151</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_34_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>36 Ave And 152 St</Location>
+    <Longitude>-122.8011811</Longitude>
+    <Latitude>49.06736989</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_36_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>54 Ave And 192 St</Location>
+    <Longitude>-122.6911928</Longitude>
+    <Latitude>49.10091652</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_54_192_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>54A Ave And 152 St</Location>
+    <Longitude>-122.8010679</Longitude>
+    <Latitude>49.10169782</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_54a_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>56 Ave And 152 St</Location>
+    <Longitude>-122.801663</Longitude>
+    <Latitude>49.10441869</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/82.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>56 Ave And 152 St</Location>
+    <Longitude>-122.8003975</Longitude>
+    <Latitude>49.10441651</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/80.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>56 Ave And 152 St</Location>
+    <Longitude>-122.8010245</Longitude>
+    <Latitude>49.10414956</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/81.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>56 Ave And 152 St</Location>
+    <Longitude>-122.8010356</Longitude>
+    <Latitude>49.10477499</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/79.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>56 Ave And 196 St</Location>
+    <Longitude>-122.6799582</Longitude>
+    <Latitude>49.1044008</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_56_196_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>56 Ave And King George Blvd</Location>
+    <Longitude>-122.8319788</Longitude>
+    <Latitude>49.10537864</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_no10_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>56 Ave And King George Blvd</Location>
+    <Longitude>-122.8357098</Longitude>
+    <Latitude>49.10554357</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/104.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>56 Ave And King George Blvd</Location>
+    <Longitude>-122.8351017</Longitude>
+    <Latitude>49.10516444</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/103.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>60 Ave And 128 St</Location>
+    <Longitude>-122.8678471</Longitude>
+    <Latitude>49.11180329</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_60_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>60 Ave And 144 St</Location>
+    <Longitude>-122.8233079</Longitude>
+    <Latitude>49.11184185</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_60_144_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>60 Ave And 152 St</Location>
+    <Longitude>-122.8009523</Longitude>
+    <Latitude>49.11171894</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_60_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>60 Ave And 168 St</Location>
+    <Longitude>-122.756627</Longitude>
+    <Latitude>49.11154426</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_60_168_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>60 Ave And 172 St</Location>
+    <Longitude>-122.7460278</Longitude>
+    <Latitude>49.11151586</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_60_172_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>60 Ave And 184 St</Location>
+    <Longitude>-122.7126334</Longitude>
+    <Latitude>49.11142451</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_60_184_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>60 Ave And 188 St</Location>
+    <Longitude>-122.7016823</Longitude>
+    <Latitude>49.11133382</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_60_188_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>60 Ave And 192 St</Location>
+    <Longitude>-122.6911896</Longitude>
+    <Latitude>49.11131072</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_60_192_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>60 Ave And 196 St</Location>
+    <Longitude>-122.6799108</Longitude>
+    <Latitude>49.11123641</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_60_196_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>60 Ave And King George Blvd</Location>
+    <Longitude>-122.8403557</Longitude>
+    <Latitude>49.11185632</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_60_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>62 Ave And King George Blvd</Location>
+    <Longitude>-122.8447449</Longitude>
+    <Latitude>49.11563315</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_62_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 120 St</Location>
+    <Longitude>-122.8901075</Longitude>
+    <Latitude>49.11920697</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 124 St</Location>
+    <Longitude>-122.8788326</Longitude>
+    <Latitude>49.11914346</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_124_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 126 St</Location>
+    <Longitude>-122.8734147</Longitude>
+    <Latitude>49.11917346</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_126_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 128 St</Location>
+    <Longitude>-122.8680217</Longitude>
+    <Latitude>49.11925442</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 132 St</Location>
+    <Longitude>-122.8563257</Longitude>
+    <Latitude>49.11887079</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_132_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 134 St</Location>
+    <Longitude>-122.8509962</Longitude>
+    <Latitude>49.11902103</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_134_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 142 St</Location>
+    <Longitude>-122.8288102</Longitude>
+    <Latitude>49.11910729</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_142_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 144 St</Location>
+    <Longitude>-122.8234707</Longitude>
+    <Latitude>49.1189947</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_144_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 148 St</Location>
+    <Longitude>-122.8123193</Longitude>
+    <Latitude>49.11899806</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_148_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 152 St</Location>
+    <Longitude>-122.8008295</Longitude>
+    <Latitude>49.11872688</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 166 St</Location>
+    <Longitude>-122.7624046</Longitude>
+    <Latitude>49.11893037</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_166_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 168 St</Location>
+    <Longitude>-122.7563587</Longitude>
+    <Latitude>49.11875936</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_168_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 172 St</Location>
+    <Longitude>-122.7460019</Longitude>
+    <Latitude>49.11883684</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_172_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 177B St</Location>
+    <Longitude>-122.7308137</Longitude>
+    <Latitude>49.11877005</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_177b_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 180 St</Location>
+    <Longitude>-122.7224334</Longitude>
+    <Latitude>49.11883638</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_180_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 184 St</Location>
+    <Longitude>-122.7125667</Longitude>
+    <Latitude>49.11874249</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_184_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And 188 St</Location>
+    <Longitude>-122.7015913</Longitude>
+    <Latitude>49.11909436</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_188_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And Fraser Hwy</Location>
+    <Longitude>-122.6914297</Longitude>
+    <Latitude>49.11871739</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_fraser_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And King George Blvd</Location>
+    <Longitude>-122.8452867</Longitude>
+    <Latitude>49.1187561</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>64 Ave And King George Blvd</Location>
+    <Longitude>-122.8440884</Longitude>
+    <Latitude>49.1191439</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>66 Ave And 120 St</Location>
+    <Longitude>-122.8905582</Longitude>
+    <Latitude>49.12294142</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_66_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>66 Ave And 128 St</Location>
+    <Longitude>-122.8678145</Longitude>
+    <Latitude>49.12285314</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_66_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>66A Ave And 152 St</Location>
+    <Longitude>-122.8010206</Longitude>
+    <Latitude>49.12351944</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_66a_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>68 Ave And 120 St</Location>
+    <Longitude>-122.8903657</Longitude>
+    <Latitude>49.12671477</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_68_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>68 Ave And 126 St</Location>
+    <Longitude>-122.8733669</Longitude>
+    <Latitude>49.12662014</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_68_126_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>68 Ave And 128 St</Location>
+    <Longitude>-122.8679686</Longitude>
+    <Latitude>49.12708873</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_68_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>68 Ave And 132 St</Location>
+    <Longitude>-122.8566183</Longitude>
+    <Latitude>49.12640342</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_68_132_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>68 Ave And 152 St</Location>
+    <Longitude>-122.8011598</Longitude>
+    <Latitude>49.12626043</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_68_158_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>68 Ave And 168 St</Location>
+    <Longitude>-122.7566621</Longitude>
+    <Latitude>49.12561823</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_68_168_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>68 Ave And 192 St</Location>
+    <Longitude>-122.6908696</Longitude>
+    <Latitude>49.12639291</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_68_192_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>68 Ave And Fraser Hwy</Location>
+    <Longitude>-122.7061734</Longitude>
+    <Latitude>49.12571523</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_68_fraser_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>68 Ave And Fraser Hwy</Location>
+    <Longitude>-122.7061667</Longitude>
+    <Latitude>49.1256936</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_68_fraser_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>68 Ave And King George Blvd</Location>
+    <Longitude>-122.8454046</Longitude>
+    <Latitude>49.1263227</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_68_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>70 Ave And 120 St</Location>
+    <Longitude>-122.8903605</Longitude>
+    <Latitude>49.13035378</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_70_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>70 Ave And 138 St</Location>
+    <Longitude>-122.8386459</Longitude>
+    <Latitude>49.12996112</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_70_138_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>70B Ave And 128 St</Location>
+    <Longitude>-122.8678259</Longitude>
+    <Latitude>49.13142488</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_70b_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 120 St</Location>
+    <Longitude>-122.8901352</Longitude>
+    <Latitude>49.13396136</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 120 St</Location>
+    <Longitude>-122.8905271</Longitude>
+    <Latitude>49.13436546</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_120_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 122 St</Location>
+    <Longitude>-122.8848215</Longitude>
+    <Latitude>49.13401804</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_122_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 124 St</Location>
+    <Longitude>-122.8792488</Longitude>
+    <Latitude>49.13401741</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_124_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 126 St</Location>
+    <Longitude>-122.8734673</Longitude>
+    <Latitude>49.13392108</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_126_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 128 St</Location>
+    <Longitude>-122.8676381</Longitude>
+    <Latitude>49.133792</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 130 St</Location>
+    <Longitude>-122.8622761</Longitude>
+    <Latitude>49.13380079</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_130_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 132 St</Location>
+    <Longitude>-122.8564777</Longitude>
+    <Latitude>49.13361144</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_132_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 137 St</Location>
+    <Longitude>-122.8427967</Longitude>
+    <Latitude>49.1335589</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_137_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 137 St</Location>
+    <Longitude>-122.8426063</Longitude>
+    <Latitude>49.13347045</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_137_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 138 St</Location>
+    <Longitude>-122.8386526</Longitude>
+    <Latitude>49.13359602</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_138_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 140 St</Location>
+    <Longitude>-122.8344536</Longitude>
+    <Latitude>49.13363346</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_140_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 144 St</Location>
+    <Longitude>-122.8233302</Longitude>
+    <Latitude>49.13373335</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_144_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 148 St</Location>
+    <Longitude>-122.8121685</Longitude>
+    <Latitude>49.13373765</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_148_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 152 St</Location>
+    <Longitude>-122.8011942</Longitude>
+    <Latitude>49.13268264</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 192 St</Location>
+    <Longitude>-122.6907882</Longitude>
+    <Latitude>49.13368223</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_192_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And 196 St</Location>
+    <Longitude>-122.6795767</Longitude>
+    <Latitude>49.13361013</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_196_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And Comber Way</Location>
+    <Longitude>-122.8510014</Longitude>
+    <Latitude>49.13353519</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_comber_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And King George Blvd</Location>
+    <Longitude>-122.8457773</Longitude>
+    <Latitude>49.13342881</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>72 Ave And King George Blvd</Location>
+    <Longitude>-122.8453996</Longitude>
+    <Latitude>49.1332604</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_72_kgbv_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>74 Ave And 128 St</Location>
+    <Longitude>-122.8678744</Longitude>
+    <Latitude>49.13745771</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_74_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>74 Ave And 137 St</Location>
+    <Longitude>-122.8428271</Longitude>
+    <Latitude>49.13720984</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_74_137_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>74 Ave And 138 St</Location>
+    <Longitude>-122.8386814</Longitude>
+    <Latitude>49.13724155</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_74_138_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>74 Ave And 140 St</Location>
+    <Longitude>-122.8344807</Longitude>
+    <Latitude>49.13727403</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_74_140_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>74 Ave And King George Blvd</Location>
+    <Longitude>-122.8456051</Longitude>
+    <Latitude>49.13718704</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_74_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>75 Ave And 124 St</Location>
+    <Longitude>-122.8790584</Longitude>
+    <Latitude>49.13926638</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_75_124_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>75A Ave And 120 St</Location>
+    <Longitude>-122.8903532</Longitude>
+    <Latitude>49.14018891</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_75a_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>76 Ave And 128 St</Location>
+    <Longitude>-122.8679065</Longitude>
+    <Latitude>49.14102549</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_76_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>76 Ave And 132 St</Location>
+    <Longitude>-122.8567604</Longitude>
+    <Latitude>49.14093285</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_76_132_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>76 Ave And 144 St</Location>
+    <Longitude>-122.8233853</Longitude>
+    <Latitude>49.14098626</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_76_144_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>76 Ave And 152 St</Location>
+    <Longitude>-122.8011247</Longitude>
+    <Latitude>49.14108367</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_76_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>76 Ave And King George Blvd</Location>
+    <Longitude>-122.8454179</Longitude>
+    <Latitude>49.14050161</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_76_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>77 Ave And 132 St</Location>
+    <Longitude>-122.8567749</Longitude>
+    <Latitude>49.14279055</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_77_132_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>78 Ave And King George Blvd</Location>
+    <Longitude>-122.8456581</Longitude>
+    <Latitude>49.14449602</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_78_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>80 Ave And 120 St</Location>
+    <Longitude>-122.8905777</Longitude>
+    <Latitude>49.14846801</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_80_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>80 Ave And 124 St</Location>
+    <Longitude>-122.8790896</Longitude>
+    <Latitude>49.14837542</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_80_124_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>80 Ave And 128 St</Location>
+    <Longitude>-122.8681046</Longitude>
+    <Latitude>49.14803559</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_80_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>80 Ave And 132 St</Location>
+    <Longitude>-122.8568142</Longitude>
+    <Latitude>49.14817248</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_80_132_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>80 Ave And King George Blvd</Location>
+    <Longitude>-122.8455056</Longitude>
+    <Latitude>49.14787176</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_80_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>82 Ave And 124 St</Location>
+    <Longitude>-122.8790945</Longitude>
+    <Latitude>49.15204035</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_82_124_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>82 Ave And 128 St</Location>
+    <Longitude>-122.8679786</Longitude>
+    <Latitude>49.15001427</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_82_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>82 Ave And 152 St</Location>
+    <Longitude>-122.8012931</Longitude>
+    <Latitude>49.15190856</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_82_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>84 Ave And 120 St</Location>
+    <Longitude>-122.8903726</Longitude>
+    <Latitude>49.15598837</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_84_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>84 Ave And 128 St</Location>
+    <Longitude>-122.8679988</Longitude>
+    <Latitude>49.1553662</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_84_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>84 Ave And 132 St</Location>
+    <Longitude>-122.8568621</Longitude>
+    <Latitude>49.15541349</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_84_132_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>84 Ave And 140 St</Location>
+    <Longitude>-122.8346012</Longitude>
+    <Latitude>49.15549362</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_84_140_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>84 Ave And 144 St</Location>
+    <Longitude>-122.8233515</Longitude>
+    <Latitude>49.1555221</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_84_144_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>84 Ave And 148 St</Location>
+    <Longitude>-122.8124574</Longitude>
+    <Latitude>49.15552595</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_84_148_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>84 Ave And 152 St</Location>
+    <Longitude>-122.8012752</Longitude>
+    <Latitude>49.1551877</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_84_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>84 Ave And 160 St</Location>
+    <Longitude>-122.77884</Longitude>
+    <Latitude>49.15546009</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_84_160_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>84 Ave And 168 St</Location>
+    <Longitude>-122.7566227</Longitude>
+    <Latitude>49.15549034</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_84_168_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>84 Ave And Fraser Hwy</Location>
+    <Longitude>-122.7747292</Longitude>
+    <Latitude>49.15575035</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_84_fraser_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>84 Ave And King George Blvd</Location>
+    <Longitude>-122.8457959</Longitude>
+    <Latitude>49.15546216</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_84_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>86 Ave And 120 St</Location>
+    <Longitude>-122.8903661</Longitude>
+    <Latitude>49.15959677</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_86_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>86 Ave And 128 St</Location>
+    <Longitude>-122.8680126</Longitude>
+    <Latitude>49.15894616</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_86_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And 124 St</Location>
+    <Longitude>-122.8790607</Longitude>
+    <Latitude>49.1632156</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_124_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And 128 St</Location>
+    <Longitude>-122.8678269</Longitude>
+    <Latitude>49.16248788</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And 130 St</Location>
+    <Longitude>-122.8624651</Longitude>
+    <Latitude>49.16263097</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_130_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And 132 St</Location>
+    <Longitude>-122.8567028</Longitude>
+    <Latitude>49.16251632</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_132_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And 133A St</Location>
+    <Longitude>-122.8519444</Longitude>
+    <Latitude>49.16267916</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_13400blk_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And 140 St</Location>
+    <Longitude>-122.8344589</Longitude>
+    <Latitude>49.16269168</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_140_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And 144 St</Location>
+    <Longitude>-122.8234281</Longitude>
+    <Latitude>49.16286069</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_144_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And 148 St</Location>
+    <Longitude>-122.8123821</Longitude>
+    <Latitude>49.16282209</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_148_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And 152 St</Location>
+    <Longitude>-122.801315</Longitude>
+    <Latitude>49.16271117</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And 156 St</Location>
+    <Longitude>-122.7901798</Longitude>
+    <Latitude>49.16280076</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_156_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And 160 St</Location>
+    <Longitude>-122.7786703</Longitude>
+    <Latitude>49.16265007</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_160_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And 162 St</Location>
+    <Longitude>-122.7730504</Longitude>
+    <Latitude>49.16273691</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_162_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And 168 St</Location>
+    <Longitude>-122.7566174</Longitude>
+    <Latitude>49.16285602</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_168_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And Bear Creek Park Access</Location>
+    <Longitude>-122.8410026</Longitude>
+    <Latitude>49.16276735</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_bearcreekpark_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And Fraser Hwy</Location>
+    <Longitude>-122.7940657</Longitude>
+    <Latitude>49.16305829</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_fraser_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And Fraser Hwy</Location>
+    <Longitude>-122.7931192</Longitude>
+    <Latitude>49.16299529</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_fraser_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And King George Blvd</Location>
+    <Longitude>-122.8455448</Longitude>
+    <Latitude>49.16252167</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And King George Blvd</Location>
+    <Longitude>-122.8455508</Longitude>
+    <Latitude>49.16218401</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_kgbv_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>88 Ave And WalMart Access</Location>
+    <Longitude>-122.8762194</Longitude>
+    <Latitude>49.16304791</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_88_walmart_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>90 Ave And 120 St</Location>
+    <Longitude>-122.890306</Longitude>
+    <Latitude>49.16682409</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_90_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>91 Ave And 152 St</Location>
+    <Longitude>-122.8013302</Longitude>
+    <Latitude>49.16828524</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_91_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>92 Ave And 120 St</Location>
+    <Longitude>-122.8901084</Longitude>
+    <Latitude>49.17021896</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_92_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>92 Ave And 128 St</Location>
+    <Longitude>-122.8680189</Longitude>
+    <Latitude>49.16979513</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_92_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>92 Ave And 132 St</Location>
+    <Longitude>-122.856873</Longitude>
+    <Latitude>49.16992736</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_92_132_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>92 Ave And 140 St</Location>
+    <Longitude>-122.8346162</Longitude>
+    <Latitude>49.17009932</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_92_140_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>92 Ave And King George Blvd</Location>
+    <Longitude>-122.8460697</Longitude>
+    <Latitude>49.170288</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_92_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>94 Ave And 192 St</Location>
+    <Longitude>-122.6904257</Longitude>
+    <Latitude>49.17283153</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_94_192_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>94A Ave And King George Blvd</Location>
+    <Longitude>-122.8457585</Longitude>
+    <Latitude>49.174686</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_94a_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 120 St</Location>
+    <Longitude>-122.8899595</Longitude>
+    <Latitude>49.17677783</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 120 St</Location>
+    <Longitude>-122.8906276</Longitude>
+    <Latitude>49.17724671</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 122 St</Location>
+    <Longitude>-122.884623</Longitude>
+    <Latitude>49.17715921</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_122_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 128 St</Location>
+    <Longitude>-122.8681834</Longitude>
+    <Latitude>49.17728405</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 132 St</Location>
+    <Longitude>-122.8570303</Longitude>
+    <Latitude>49.17721706</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_132_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 134 St</Location>
+    <Longitude>-122.8513968</Longitude>
+    <Latitude>49.17707018</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_134_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 137 St</Location>
+    <Longitude>-122.8433963</Longitude>
+    <Latitude>49.17703076</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_137_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 137A St</Location>
+    <Longitude>-122.8421186</Longitude>
+    <Latitude>49.17702451</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_137a_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 138 St</Location>
+    <Longitude>-122.8401549</Longitude>
+    <Latitude>49.17711328</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_138_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 140 St</Location>
+    <Longitude>-122.8345413</Longitude>
+    <Latitude>49.17698684</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_140_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 148 St</Location>
+    <Longitude>-122.8120943</Longitude>
+    <Latitude>49.17678339</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_148_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 152 St</Location>
+    <Longitude>-122.8008424</Longitude>
+    <Latitude>49.17671782</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 152 St</Location>
+    <Longitude>-122.8015621</Longitude>
+    <Latitude>49.17694616</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_152_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 156 St</Location>
+    <Longitude>-122.7901027</Longitude>
+    <Latitude>49.17675964</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_156_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 160 St</Location>
+    <Longitude>-122.7786838</Longitude>
+    <Latitude>49.17681568</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_160_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 162 St</Location>
+    <Longitude>-122.7732002</Longitude>
+    <Latitude>49.17693651</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_16200_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 168 St</Location>
+    <Longitude>-122.756594</Longitude>
+    <Latitude>49.17699635</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_168_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 172 St</Location>
+    <Longitude>-122.74586</Longitude>
+    <Latitude>49.17699184</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_172_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 175 St</Location>
+    <Longitude>-122.7361136</Longitude>
+    <Latitude>49.1769208</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_172_176_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 192 St</Location>
+    <Longitude>-122.6907381</Longitude>
+    <Latitude>49.17685015</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_192_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 196 St</Location>
+    <Longitude>-122.679507</Longitude>
+    <Latitude>49.17691145</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_196railway_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 96 Connector</Location>
+    <Longitude>-122.7112551</Longitude>
+    <Latitude>49.17710742</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_96connector_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And 96 Connector</Location>
+    <Longitude>-122.7112551</Longitude>
+    <Latitude>49.17710742</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_96connector_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And Fraser Hwy</Location>
+    <Longitude>-122.8283619</Longitude>
+    <Latitude>49.17640834</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_fraser_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And Fraser Hwy</Location>
+    <Longitude>-122.8290479</Longitude>
+    <Latitude>49.17668388</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_fraser_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And Green Timbers Way</Location>
+    <Longitude>-122.8248364</Longitude>
+    <Latitude>49.17690896</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_greentimbers_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And King George Blvd</Location>
+    <Longitude>-122.8453797</Longitude>
+    <Latitude>49.17684976</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And King George Blvd</Location>
+    <Longitude>-122.8439903</Longitude>
+    <Latitude>49.1771073</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_kgbv_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>96 Ave And Prince Charles Blvd</Location>
+    <Longitude>-122.8641024</Longitude>
+    <Latitude>49.17714598</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_96_pcharles_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>98 Ave And King George Blvd</Location>
+    <Longitude>-122.8452813</Longitude>
+    <Latitude>49.180405</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_98_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>98 Ave And King George Blvd</Location>
+    <Longitude>-122.8458603</Longitude>
+    <Latitude>49.18002112</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_98_kgbv_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>98B Ave And King George Blvd</Location>
+    <Longitude>-122.8454549</Longitude>
+    <Latitude>49.18209912</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_98b_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>99 Ave And 120 St</Location>
+    <Longitude>-122.8900321</Longitude>
+    <Latitude>49.18222312</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_99_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Beach Road And No 99 Hwy</Location>
+    <Longitude>-122.7580794</Longitude>
+    <Latitude>49.00730463</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/14.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Beach Road And No 99 Hwy</Location>
+    <Longitude>-122.7571361</Longitude>
+    <Latitude>49.00784531</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/445.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Boundary Park Gate And 120 St</Location>
+    <Longitude>-122.8904382</Longitude>
+    <Latitude>49.11291035</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_boundarypark_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Colebrook Rd And 152 St Ftg Rd</Location>
+    <Longitude>-122.8007773</Longitude>
+    <Latitude>49.09829866</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_colebrook_152fg_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Colebrook Rd And King George Blvd</Location>
+    <Longitude>-122.8180491</Longitude>
+    <Latitude>49.09401236</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_colebrook_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Crescent Rd And Bayview St</Location>
+    <Longitude>-122.8770952</Longitude>
+    <Latitude>49.05393224</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_64_152_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Crescent Rd And King George Blvd</Location>
+    <Longitude>-122.8206532</Longitude>
+    <Latitude>49.06760453</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_cres_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 140 St</Location>
+    <Longitude>-122.8341435</Longitude>
+    <Latitude>49.17862983</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_fraser_140_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 144 St</Location>
+    <Longitude>-122.823394</Longitude>
+    <Latitude>49.17462033</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_fraser_144_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 148 St</Location>
+    <Longitude>-122.8143799</Longitude>
+    <Latitude>49.17112722</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_fraser_148_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 152 St</Location>
+    <Longitude>-122.8012502</Longitude>
+    <Latitude>49.16589869</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_fraser_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 152 St</Location>
+    <Longitude>-122.8005787</Longitude>
+    <Latitude>49.16564315</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_fraser_152_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 156 St</Location>
+    <Longitude>-122.7901788</Longitude>
+    <Latitude>49.16175523</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_fraser_156_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 159 St</Location>
+    <Longitude>-122.7820583</Longitude>
+    <Latitude>49.15860757</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_fraser_159_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 160 St</Location>
+    <Longitude>-122.7787251</Longitude>
+    <Latitude>49.15716912</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_fraser_160_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 164 St</Location>
+    <Longitude>-122.7677465</Longitude>
+    <Latitude>49.15301703</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_fraser_164_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 166 St</Location>
+    <Longitude>-122.7620663</Longitude>
+    <Latitude>49.15077973</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_fraser_166_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 168 St</Location>
+    <Longitude>-122.7566776</Longitude>
+    <Latitude>49.14788572</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_fraser_168_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 176 St</Location>
+    <Longitude>-122.734731</Longitude>
+    <Latitude>49.13778797</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/94.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 176 St</Location>
+    <Longitude>-122.7352689</Longitude>
+    <Latitude>49.13835145</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/95.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 176 St</Location>
+    <Longitude>-122.7342902</Longitude>
+    <Latitude>49.13795402</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/93.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 176 St</Location>
+    <Longitude>-122.7347268</Longitude>
+    <Latitude>49.13847717</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/86.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 184 St</Location>
+    <Longitude>-122.7123923</Longitude>
+    <Latitude>49.12882495</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_fraser_184_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And 188 St</Location>
+    <Longitude>-122.7016491</Longitude>
+    <Latitude>49.12351315</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_fraser_188_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And Fleetwood Dr</Location>
+    <Longitude>-122.797932</Longitude>
+    <Latitude>49.16474811</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_fraser_fleetwood_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Fraser Hwy And Whalley Blvd</Location>
+    <Longitude>-122.8411392</Longitude>
+    <Latitude>49.1806169</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_fraser_whalley_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>King George Blvd And 120 St</Location>
+    <Longitude>-122.8744071</Longitude>
+    <Latitude>49.20554614</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_kgbv_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>King George Blvd And 128 St</Location>
+    <Longitude>-122.867499</Longitude>
+    <Latitude>49.20644348</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_kgbv_128_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>King George Blvd And 128 St</Location>
+    <Longitude>-122.8685452</Longitude>
+    <Latitude>49.20612059</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_kgbv_128_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>King George Blvd And 132 St</Location>
+    <Longitude>-122.8544116</Longitude>
+    <Latitude>49.204741</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_kgbv_132_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>King George Blvd And 148 St</Location>
+    <Longitude>-122.813035</Longitude>
+    <Latitude>49.06130105</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_kgbv_148_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>King George Blvd And 152 St</Location>
+    <Longitude>-122.8010375</Longitude>
+    <Latitude>49.05139925</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_kgbv_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>King George Blvd And 156 St</Location>
+    <Longitude>-122.7900851</Longitude>
+    <Latitude>49.04279191</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_kgbv_156_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>King George Blvd And 160 St</Location>
+    <Longitude>-122.779072</Longitude>
+    <Latitude>49.03378103</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_kgbv_160_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>King George Blvd And 32 Ave Div</Location>
+    <Longitude>-122.8099657</Longitude>
+    <Latitude>49.05862039</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_32_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>King George Blvd And Mall Access</Location>
+    <Longitude>-122.8454234</Longitude>
+    <Latitude>49.18621625</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_kgbv_mall_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>King George Blvd And No 99 Hwy</Location>
+    <Longitude>-122.8222553</Longitude>
+    <Latitude>49.07405427</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/393.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>King George Blvd And No 99 Hwy</Location>
+    <Longitude>-122.8235767</Longitude>
+    <Latitude>49.07450994</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/390.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>King George Blvd And West of 132 St</Location>
+    <Longitude>-122.8605151</Longitude>
+    <Latitude>49.20737578</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_132_west_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Mall Access And 120 St</Location>
+    <Longitude>-122.8903556</Longitude>
+    <Latitude>49.13706945</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_mall_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Mall Access And 152 St</Location>
+    <Longitude>-122.8011691</Longitude>
+    <Latitude>49.05634403</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_mall_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Mall Access And University Dr</Location>
+    <Longitude>-122.8510937</Longitude>
+    <Latitude>49.18774214</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_mall_universitydr_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>No 1 Hwy And 176 St</Location>
+    <Longitude>-122.7867563</Longitude>
+    <Latitude>49.19413658</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/172.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>No 1 Hwy And Port Mann Bridge</Location>
+    <Longitude>-122.8111222</Longitude>
+    <Latitude>49.21473586</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/292.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>No 99 Hwy And 32 Ave Div</Location>
+    <Longitude>-122.8080704</Longitude>
+    <Latitude>49.06320376</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/284.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>No 99 Hwy And 32 Ave Div</Location>
+    <Longitude>-122.8075204</Longitude>
+    <Latitude>49.06336293</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/285.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>No 99 Hwy And 8 Ave</Location>
+    <Longitude>-122.758206</Longitude>
+    <Latitude>49.01415922</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/539.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>No 99 Hwy And 8 Ave</Location>
+    <Longitude>-122.7586335</Longitude>
+    <Latitude>49.01458984</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/444.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>No 99 Hwy And 8 Ave</Location>
+    <Longitude>-122.7581224</Longitude>
+    <Latitude>49.01468152</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/212.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>No 99 Hwy And King George Blvd</Location>
+    <Longitude>-122.8228627</Longitude>
+    <Latitude>49.07356158</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/391.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>No 99 Hwy And King George Blvd</Location>
+    <Longitude>-122.8229021</Longitude>
+    <Latitude>49.07472787</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/392.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>No 99 Hwy And Mud Bay</Location>
+    <Longitude>-122.8700376</Longitude>
+    <Latitude>49.09002875</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/313.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>No 99 Hwy And Mud Bay</Location>
+    <Longitude>-122.8699258</Longitude>
+    <Latitude>49.09121865</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/314.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Nordel Way And 120 St</Location>
+    <Longitude>-122.8901117</Longitude>
+    <Latitude>49.16188869</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_nordel_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Nordel Way And 120 St</Location>
+    <Longitude>-122.8894028</Longitude>
+    <Latitude>49.16201711</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_nordel_120_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Nordel Way And Mall Access</Location>
+    <Longitude>-122.8879408</Longitude>
+    <Latitude>49.161957</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_nordel_mall_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Old Yale Rd And 120 St</Location>
+    <Longitude>-122.88223</Longitude>
+    <Latitude>49.19925174</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_oldyale_120_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Old Yale Rd And 124 St</Location>
+    <Longitude>-122.8787087</Longitude>
+    <Latitude>49.19754275</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_oldyale_124_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Old Yale Rd And 132 St</Location>
+    <Longitude>-122.8564855</Longitude>
+    <Latitude>49.18769967</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_oldyale_132_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Old Yale Rd And Mall Access</Location>
+    <Longitude>-122.8473458</Longitude>
+    <Latitude>49.18426603</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_mallaccess_oldyale_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Old Yale Rd And University Dr</Location>
+    <Longitude>-122.8516262</Longitude>
+    <Latitude>49.18589587</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_oldyale_134a_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Pacific Border Crossing And 176 St</Location>
+    <Longitude>-122.735765</Longitude>
+    <Latitude>49.00271185</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/15.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Panorama Dr And 152 St</Location>
+    <Longitude>-122.8009923</Longitude>
+    <Latitude>49.10844807</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_panorama_152_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Pattullo Bridge Approach And 131 St</Location>
+    <Longitude>-122.8592547</Longitude>
+    <Latitude>49.20746401</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/258.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Pattullo Bridge Count Station And King George Blvd</Location>
+    <Longitude>-122.8776461</Longitude>
+    <Latitude>49.20565527</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_pattullo_countst_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Peace Arch And No 99 Hwy</Location>
+    <Longitude>-122.7566869</Longitude>
+    <Latitude>49.00127282</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/13.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Port Mann Bridge And Loughren Dr</Location>
+    <Longitude>-122.807618</Longitude>
+    <Latitude>49.21003072</Latitude>
+    <Link>http://images.drivebc.ca/bchighwaycam/pub/cameras/275.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Telegraph Trail And New Telegraph Trail</Location>
+    <Longitude>-122.6795544</Longitude>
+    <Latitude>49.18043001</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_telegraphtrail_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Transit Exchange And University Dr</Location>
+    <Longitude>-122.8498747</Longitude>
+    <Latitude>49.18891317</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_universitydr_transitexchange_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>University Dr And 103 St</Location>
+    <Longitude>-122.8498553</Longitude>
+    <Latitude>49.18977909</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_universitydr_103egress_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>University Dr And 103 St</Location>
+    <Longitude>-122.8498553</Longitude>
+    <Latitude>49.18977909</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_universitydr_103_egress_cam2.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>University Dr And King George Blvd</Location>
+    <Longitude>-122.8516178</Longitude>
+    <Latitude>49.20290147</Latitude>
+    <Link>http://cosmos.surrey.ca/TrafficCameraImages/enc_universitydr_kgbv_cam1.jpg</Link>
+    <City>Surrey</City>
+  </Table1>
+  <Table1>
+    <Location>Albert Street and Booth Street</Location>
+    <Longitude>-75.712647</Longitude>
+    <Latitude>45.412904</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Albert Street and Kent Street</Location>
+    <Longitude>-75.702375</Longitude>
+    <Latitude>45.419013</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Aviation Parkway and Ogilvie Road</Location>
+    <Longitude>-75.627026</Longitude>
+    <Latitude>45.427967</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Bank Street and Heron Road</Location>
+    <Longitude>-75.667534</Longitude>
+    <Latitude>45.378578</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Bank Street and Hunt Club Road</Location>
+    <Longitude>-75.647371</Longitude>
+    <Latitude>45.353708</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Bank Street and Riverside Drive</Location>
+    <Longitude>-75.677272</Longitude>
+    <Latitude>45.388818</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Baseline Road and Merivale Road</Location>
+    <Longitude>-75.730847</Longitude>
+    <Latitude>45.365274</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Blair Road and Highway 174 Westbound/Gloucester Center</Location>
+    <Longitude>-75.607443</Longitude>
+    <Latitude>45.433358</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Booth Street and Wellington Street</Location>
+    <Longitude>-75.714681</Longitude>
+    <Latitude>45.416264</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Bronson Avenue and Carling Avenue</Location>
+    <Longitude>-75.699736</Longitude>
+    <Latitude>45.401102</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Bronson Avenue and Commissioner Street/Slater Street</Location>
+    <Longitude>-75.708185</Longitude>
+    <Latitude>45.415713</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Carling Avenue and Island Park Drive</Location>
+    <Longitude>-75.726708</Longitude>
+    <Latitude>45.389251</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Carling Avenue and Richmond Road</Location>
+    <Longitude>-75.792291</Longitude>
+    <Latitude>45.360715</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Catherine Street and Kent Street</Location>
+    <Longitude>-75.693735</Longitude>
+    <Latitude>45.408832</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Catherine Street and O'Connor Street/417 Westbound On Ramp</Location>
+    <Longitude>-75.689412</Longitude>
+    <Latitude>45.41061</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Charlemange Boulevard/Tompkins Avenue and Tenth Line Road</Location>
+    <Longitude>-75.497382</Longitude>
+    <Latitude>45.47735</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Conroy Road and Lorry Greenberg Drive</Location>
+    <Longitude>-75.622138</Longitude>
+    <Latitude>45.369437</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Coventry/Ogilvie Road and St. Laurent Boulevard</Location>
+    <Longitude>-75.637318</Longitude>
+    <Latitude>45.424218</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Cyrville Road and Innes Road</Location>
+    <Longitude>-75.602436</Longitude>
+    <Latitude>45.416483</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Eagleson Road and Hazeldean Road</Location>
+    <Longitude>-75.876804</Longitude>
+    <Latitude>45.304043</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Elgin Street/Pretoria Bridge and Queen Elizabeth Drive</Location>
+    <Longitude>-75.684064</Longitude>
+    <Latitude>45.411327</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Fisher Avenue and Meadowlands Drive</Location>
+    <Longitude>-75.711413</Longitude>
+    <Latitude>45.362646</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Greenbank Road and Berrigan Drive/Wessex Road</Location>
+    <Longitude>-75.748985</Longitude>
+    <Latitude>45.274938</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Heron Road and Riverside Drive</Location>
+    <Longitude>-75.691496</Longitude>
+    <Latitude>45.376827</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Holland Avenue and Island Park Drive/NCC Driveway</Location>
+    <Longitude>-75.725758</Longitude>
+    <Latitude>45.388542</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>King Edward Avenue and St. Patrick Street</Location>
+    <Longitude>-75.688989</Longitude>
+    <Latitude>45.432538</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>March Road/Eaglson Road and Campeau Drive/417 Westbound Off Ramp</Location>
+    <Longitude>-75.887139</Longitude>
+    <Latitude>45.322535</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Merivale Road and Meadowlands Drive</Location>
+    <Longitude>-75.733542</Longitude>
+    <Latitude>45.350894</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Place D'OrlÃ©ans Drive/Duford Drive and St. Joseph Boulevard</Location>
+    <Longitude>-75.512603</Longitude>
+    <Latitude>45.477663</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Smyth Road and Saunderson Drive</Location>
+    <Longitude>-75.631485</Longitude>
+    <Latitude>45.400525</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>St. Laurent Boulevard and Belfast Road</Location>
+    <Longitude>-75.630451</Longitude>
+    <Latitude>45.411824</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Strandherd Drive and Jockvale Road</Location>
+    <Longitude>-75.751094</Longitude>
+    <Latitude>45.26869</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Walkley Road and Russell Road/Hawthorn Road</Location>
+    <Longitude>-75.607583</Longitude>
+    <Latitude>45.392854</Latitude>
+    <City>Ottawa</City>
+  </Table1>
+  <Table1>
+    <Location>Allen Road And Eglinton Ave</Location>
+    <Longitude>-79.43655968</Longitude>
+    <Latitude>43.7</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc50.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Allen Road And Elmridge</Location>
+    <Longitude>-79.43731901</Longitude>
+    <Latitude>43.70191335</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc51.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Allen Road And Finch</Location>
+    <Longitude>-79.4674444</Longitude>
+    <Latitude>43.76919207</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc58.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Allen Road And Glengrove</Location>
+    <Longitude>-79.44328934</Longitude>
+    <Latitude>43.71243895</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc53.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Allen Road And HWY 401</Location>
+    <Longitude>-79.44866646</Longitude>
+    <Latitude>43.72825016</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc55.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Allen Road And Lawrence</Location>
+    <Longitude>-79.44510974</Longitude>
+    <Latitude>43.71657142</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc54.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Allen Road And Sheppard</Location>
+    <Longitude>-79.46367992</Longitude>
+    <Latitude>43.75014442</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc57.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Allen Road And Transit Road</Location>
+    <Longitude>-79.45237667</Longitude>
+    <Latitude>43.73910478</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc56.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Allen Road And Viewmount</Location>
+    <Longitude>-79.4408243</Longitude>
+    <Latitude>43.70795507</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc52.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Bay And Richmond</Location>
+    <Longitude>-79.381438</Longitude>
+    <Latitude>43.65123</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc115.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Black Creek Dr And Lawrence Ave W</Location>
+    <Longitude>-79.49410915</Longitude>
+    <Latitude>43.70504961</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc119.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Don Mills And Overlea</Location>
+    <Longitude>-79.33342338</Longitude>
+    <Latitude>43.70896623</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc72.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And Beechwood</Location>
+    <Longitude>-79.35734063</Longitude>
+    <Latitude>43.69345335</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc69.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And Bloor Ramp</Location>
+    <Longitude>-79.36279893</Longitude>
+    <Latitude>43.68149406</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc68.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And CN Railway</Location>
+    <Longitude>-79.33147475</Longitude>
+    <Latitude>43.70722511</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc73.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And Danforth</Location>
+    <Longitude>-79.35903311</Longitude>
+    <Latitude>43.67196915</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc67.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And Don Mills</Location>
+    <Longitude>-79.33735549</Longitude>
+    <Latitude>43.70060626</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc71.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And Dundas</Location>
+    <Longitude>-79.35486495</Longitude>
+    <Latitude>43.66207405</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc66.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And Eastern</Location>
+    <Longitude>-79.35187966</Longitude>
+    <Latitude>43.65641565</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc65.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And Eglinton</Location>
+    <Longitude>-79.3299365</Longitude>
+    <Latitude>43.72377341</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc76.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And Gardiner Ramp</Location>
+    <Longitude>-79.34970093</Longitude>
+    <Latitude>43.64989853</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc2.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And Lawrence</Location>
+    <Longitude>-79.33194816</Longitude>
+    <Latitude>43.73983073</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc78.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And Millwood</Location>
+    <Longitude>-79.3495515</Longitude>
+    <Latitude>43.69818521</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc70.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And Spanbridge</Location>
+    <Longitude>-79.32499051</Longitude>
+    <Latitude>43.71268485</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc74.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And St Dennis</Location>
+    <Longitude>-79.3273294</Longitude>
+    <Latitude>43.71808399</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc75.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And Three Valleys</Location>
+    <Longitude>-79.33348909</Longitude>
+    <Latitude>43.75184717</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc79.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And Twin Tunnels</Location>
+    <Longitude>-79.33060169</Longitude>
+    <Latitude>43.73088393</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc77.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And Wynford</Location>
+    <Longitude>-79.330016</Longitude>
+    <Latitude>43.726984</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc81.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>DVP And York Mills</Location>
+    <Longitude>-79.33530092</Longitude>
+    <Latitude>43.75795667</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc80.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And At Palace Pier</Location>
+    <Longitude>-79.4747081</Longitude>
+    <Latitude>43.63128149</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc27.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Bathurst St.</Location>
+    <Longitude>-79.40029907</Longitude>
+    <Latitude>43.63796997</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc14.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Dowling Ave.</Location>
+    <Longitude>-79.43840027</Longitude>
+    <Latitude>43.6344986</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc22.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Dufferin St.</Location>
+    <Longitude>-79.42225277</Longitude>
+    <Latitude>43.63451925</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc20.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Dunn Ave.</Location>
+    <Longitude>-79.43119812</Longitude>
+    <Latitude>43.63249969</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc21.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And DVP</Location>
+    <Longitude>-79.35017109</Longitude>
+    <Latitude>43.65001923</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc28.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And East of Spadina</Location>
+    <Longitude>-79.39168701</Longitude>
+    <Latitude>43.63899593</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc133.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Ellis Ave.</Location>
+    <Longitude>-79.46569824</Longitude>
+    <Latitude>43.63700104</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc24.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Grand Ave.</Location>
+    <Longitude>-79.49310303</Longitude>
+    <Latitude>43.62469864</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc31.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Humber East</Location>
+    <Longitude>-79.47435261</Longitude>
+    <Latitude>43.63153644</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc26.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And HWY 427</Location>
+    <Longitude>-79.54653595</Longitude>
+    <Latitude>43.61484858</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc36.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Islington Ave.</Location>
+    <Longitude>-79.51326752</Longitude>
+    <Latitude>43.62049866</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc33.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Jarvis St.</Location>
+    <Longitude>-79.36993408</Longitude>
+    <Latitude>43.64581299</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc6.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Kingsway</Location>
+    <Longitude>-79.46952403</Longitude>
+    <Latitude>43.63507445</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc25.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Kipling Ave.</Location>
+    <Longitude>-79.52580261</Longitude>
+    <Latitude>43.61800003</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc34.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Lake Shore Blvd W E off Ramp</Location>
+    <Longitude>-79.47836395</Longitude>
+    <Latitude>43.6292401</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc35.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Palace Pier</Location>
+    <Longitude>-79.47570038</Longitude>
+    <Latitude>43.63130188</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc29.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Park Lawn Rd.</Location>
+    <Longitude>-79.48184609</Longitude>
+    <Latitude>43.62731381</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc30.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Parliament St</Location>
+    <Longitude>-79.35967684</Longitude>
+    <Latitude>43.64824534</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc3.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Royal York</Location>
+    <Longitude>-79.50102234</Longitude>
+    <Latitude>43.62274933</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc32.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Skydome</Location>
+    <Longitude>-79.38698977</Longitude>
+    <Latitude>43.63944113</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc12.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Spadina</Location>
+    <Longitude>-79.3945114</Longitude>
+    <Latitude>43.63810193</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc13.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Strachan Ave.</Location>
+    <Longitude>-79.41020203</Longitude>
+    <Latitude>43.63740158</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc16.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Sunnyside</Location>
+    <Longitude>-79.44996402</Longitude>
+    <Latitude>43.63829809</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc23.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And Wickman Rd</Location>
+    <Longitude>-79.53132783</Longitude>
+    <Latitude>43.61658462</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc42.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And York</Location>
+    <Longitude>-79.37921673</Longitude>
+    <Latitude>43.64232263</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc9.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Gardiner And York</Location>
+    <Longitude>-79.38076973</Longitude>
+    <Latitude>43.64097847</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc10.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And Battery Park</Location>
+    <Longitude>-79.41098022</Longitude>
+    <Latitude>43.63244247</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc17.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And Bay</Location>
+    <Longitude>-79.3777449</Longitude>
+    <Latitude>43.64275292</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc8.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And British Columbia</Location>
+    <Longitude>-79.42917633</Longitude>
+    <Latitude>43.63144684</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc19.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And Colborne Lodge</Location>
+    <Longitude>-79.45894003</Longitude>
+    <Latitude>43.63798528</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc150.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And Don Roadway</Location>
+    <Longitude>-79.3470993</Longitude>
+    <Latitude>43.65110016</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc1.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And Dunn</Location>
+    <Longitude>-79.43055153</Longitude>
+    <Latitude>43.63161796</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc134.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And Ellis</Location>
+    <Longitude>-79.46548462</Longitude>
+    <Latitude>43.63633916</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc137.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And Jameson</Location>
+    <Longitude>-79.43514838</Longitude>
+    <Latitude>43.63223281</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc135.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And Jarvis St.</Location>
+    <Longitude>-79.36979675</Longitude>
+    <Latitude>43.64550018</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc5.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And Leslie St</Location>
+    <Longitude>-79.32845592</Longitude>
+    <Latitude>43.65920999</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc120.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And Ontario Place</Location>
+    <Longitude>-79.42008209</Longitude>
+    <Latitude>43.63042068</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc18.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And Park Lawn</Location>
+    <Longitude>-79.48121309</Longitude>
+    <Latitude>43.62309091</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc37.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And Parliament St.</Location>
+    <Longitude>-79.36119843</Longitude>
+    <Latitude>43.64780045</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc4.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And Rees St.</Location>
+    <Longitude>-79.38686371</Longitude>
+    <Latitude>43.63977051</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc11.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And Rememberance</Location>
+    <Longitude>-79.40261078</Longitude>
+    <Latitude>43.63592148</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc15.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And Sunnyside</Location>
+    <Longitude>-79.4495</Longitude>
+    <Latitude>43.6372</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc136.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Lake Shore And Yonge</Location>
+    <Longitude>-79.37558304</Longitude>
+    <Latitude>43.64388257</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc7.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Steeles And Woodbine</Location>
+    <Longitude>-79.34866905</Longitude>
+    <Latitude>43.81412284</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc118.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>University And Adelaide</Location>
+    <Longitude>-79.385464</Longitude>
+    <Latitude>43.648863</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc114.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+  <Table1>
+    <Location>Warden And Ellesmere</Location>
+    <Longitude>-79.30073261</Longitude>
+    <Latitude>43.76130031</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc117.jpg</Link>
+    <City>Toronto</City>
+  </Table1>
+</NewDataSet>

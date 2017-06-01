@@ -1,0 +1,535 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <XMLData>
+    <Location>Allen Road And Eglinton Ave</Location>
+    <Longitude>-79.43655968</Longitude>
+    <Latitude>43.7</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc50.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Allen Road And Elmridge</Location>
+    <Longitude>-79.43731901</Longitude>
+    <Latitude>43.70191335</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc51.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Allen Road And Finch</Location>
+    <Longitude>-79.4674444</Longitude>
+    <Latitude>43.76919207</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc58.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Allen Road And Glengrove</Location>
+    <Longitude>-79.44328934</Longitude>
+    <Latitude>43.71243895</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc53.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Allen Road And HWY 401</Location>
+    <Longitude>-79.44866646</Longitude>
+    <Latitude>43.72825016</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc55.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Allen Road And Lawrence</Location>
+    <Longitude>-79.44510974</Longitude>
+    <Latitude>43.71657142</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc54.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Allen Road And Sheppard</Location>
+    <Longitude>-79.46367992</Longitude>
+    <Latitude>43.75014442</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc57.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Allen Road And Transit Road</Location>
+    <Longitude>-79.45237667</Longitude>
+    <Latitude>43.73910478</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc56.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Allen Road And Viewmount</Location>
+    <Longitude>-79.4408243</Longitude>
+    <Latitude>43.70795507</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc52.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Bay And Richmond</Location>
+    <Longitude>-79.381438</Longitude>
+    <Latitude>43.65123</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc115.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Black Creek Dr And Lawrence Ave W</Location>
+    <Longitude>-79.49410915</Longitude>
+    <Latitude>43.70504961</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc119.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Don Mills And Overlea</Location>
+    <Longitude>-79.33342338</Longitude>
+    <Latitude>43.70896623</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc72.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And Beechwood</Location>
+    <Longitude>-79.35734063</Longitude>
+    <Latitude>43.69345335</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc69.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And Bloor Ramp</Location>
+    <Longitude>-79.36279893</Longitude>
+    <Latitude>43.68149406</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc68.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And CN Railway</Location>
+    <Longitude>-79.33147475</Longitude>
+    <Latitude>43.70722511</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc73.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And Danforth</Location>
+    <Longitude>-79.35903311</Longitude>
+    <Latitude>43.67196915</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc67.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And Don Mills</Location>
+    <Longitude>-79.33735549</Longitude>
+    <Latitude>43.70060626</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc71.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And Dundas</Location>
+    <Longitude>-79.35486495</Longitude>
+    <Latitude>43.66207405</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc66.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And Eastern</Location>
+    <Longitude>-79.35187966</Longitude>
+    <Latitude>43.65641565</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc65.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And Eglinton</Location>
+    <Longitude>-79.3299365</Longitude>
+    <Latitude>43.72377341</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc76.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And Gardiner Ramp</Location>
+    <Longitude>-79.34970093</Longitude>
+    <Latitude>43.64989853</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc2.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And Lawrence</Location>
+    <Longitude>-79.33194816</Longitude>
+    <Latitude>43.73983073</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc78.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And Millwood</Location>
+    <Longitude>-79.3495515</Longitude>
+    <Latitude>43.69818521</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc70.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And Spanbridge</Location>
+    <Longitude>-79.32499051</Longitude>
+    <Latitude>43.71268485</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc74.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And St Dennis</Location>
+    <Longitude>-79.3273294</Longitude>
+    <Latitude>43.71808399</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc75.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And Three Valleys</Location>
+    <Longitude>-79.33348909</Longitude>
+    <Latitude>43.75184717</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc79.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And Twin Tunnels</Location>
+    <Longitude>-79.33060169</Longitude>
+    <Latitude>43.73088393</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc77.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And Wynford</Location>
+    <Longitude>-79.330016</Longitude>
+    <Latitude>43.726984</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc81.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>DVP And York Mills</Location>
+    <Longitude>-79.33530092</Longitude>
+    <Latitude>43.75795667</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc80.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And At Palace Pier</Location>
+    <Longitude>-79.4747081</Longitude>
+    <Latitude>43.63128149</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc27.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Bathurst St.</Location>
+    <Longitude>-79.40029907</Longitude>
+    <Latitude>43.63796997</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc14.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Dowling Ave.</Location>
+    <Longitude>-79.43840027</Longitude>
+    <Latitude>43.6344986</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc22.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Dufferin St.</Location>
+    <Longitude>-79.42225277</Longitude>
+    <Latitude>43.63451925</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc20.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Dunn Ave.</Location>
+    <Longitude>-79.43119812</Longitude>
+    <Latitude>43.63249969</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc21.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And DVP</Location>
+    <Longitude>-79.35017109</Longitude>
+    <Latitude>43.65001923</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc28.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And East of Spadina</Location>
+    <Longitude>-79.39168701</Longitude>
+    <Latitude>43.63899593</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc133.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Ellis Ave.</Location>
+    <Longitude>-79.46569824</Longitude>
+    <Latitude>43.63700104</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc24.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Grand Ave.</Location>
+    <Longitude>-79.49310303</Longitude>
+    <Latitude>43.62469864</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc31.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Humber East</Location>
+    <Longitude>-79.47435261</Longitude>
+    <Latitude>43.63153644</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc26.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And HWY 427</Location>
+    <Longitude>-79.54653595</Longitude>
+    <Latitude>43.61484858</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc36.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Islington Ave.</Location>
+    <Longitude>-79.51326752</Longitude>
+    <Latitude>43.62049866</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc33.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Jarvis St.</Location>
+    <Longitude>-79.36993408</Longitude>
+    <Latitude>43.64581299</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc6.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Kingsway</Location>
+    <Longitude>-79.46952403</Longitude>
+    <Latitude>43.63507445</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc25.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Kipling Ave.</Location>
+    <Longitude>-79.52580261</Longitude>
+    <Latitude>43.61800003</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc34.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Lake Shore Blvd W E off Ramp</Location>
+    <Longitude>-79.47836395</Longitude>
+    <Latitude>43.6292401</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc35.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Palace Pier</Location>
+    <Longitude>-79.47570038</Longitude>
+    <Latitude>43.63130188</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc29.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Park Lawn Rd.</Location>
+    <Longitude>-79.48184609</Longitude>
+    <Latitude>43.62731381</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc30.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Parliament St</Location>
+    <Longitude>-79.35967684</Longitude>
+    <Latitude>43.64824534</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc3.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Royal York</Location>
+    <Longitude>-79.50102234</Longitude>
+    <Latitude>43.62274933</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc32.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Skydome</Location>
+    <Longitude>-79.38698977</Longitude>
+    <Latitude>43.63944113</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc12.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Spadina</Location>
+    <Longitude>-79.3945114</Longitude>
+    <Latitude>43.63810193</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc13.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Strachan Ave.</Location>
+    <Longitude>-79.41020203</Longitude>
+    <Latitude>43.63740158</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc16.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Sunnyside</Location>
+    <Longitude>-79.44996402</Longitude>
+    <Latitude>43.63829809</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc23.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And Wickman Rd</Location>
+    <Longitude>-79.53132783</Longitude>
+    <Latitude>43.61658462</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc42.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And York</Location>
+    <Longitude>-79.37921673</Longitude>
+    <Latitude>43.64232263</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc9.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Gardiner And York</Location>
+    <Longitude>-79.38076973</Longitude>
+    <Latitude>43.64097847</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc10.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And Battery Park</Location>
+    <Longitude>-79.41098022</Longitude>
+    <Latitude>43.63244247</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc17.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And Bay</Location>
+    <Longitude>-79.3777449</Longitude>
+    <Latitude>43.64275292</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc8.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And British Columbia</Location>
+    <Longitude>-79.42917633</Longitude>
+    <Latitude>43.63144684</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc19.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And Colborne Lodge</Location>
+    <Longitude>-79.45894003</Longitude>
+    <Latitude>43.63798528</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc150.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And Don Roadway</Location>
+    <Longitude>-79.3470993</Longitude>
+    <Latitude>43.65110016</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc1.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And Dunn</Location>
+    <Longitude>-79.43055153</Longitude>
+    <Latitude>43.63161796</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc134.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And Ellis</Location>
+    <Longitude>-79.46548462</Longitude>
+    <Latitude>43.63633916</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc137.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And Jameson</Location>
+    <Longitude>-79.43514838</Longitude>
+    <Latitude>43.63223281</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc135.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And Jarvis St.</Location>
+    <Longitude>-79.36979675</Longitude>
+    <Latitude>43.64550018</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc5.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And Leslie St</Location>
+    <Longitude>-79.32845592</Longitude>
+    <Latitude>43.65920999</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc120.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And Ontario Place</Location>
+    <Longitude>-79.42008209</Longitude>
+    <Latitude>43.63042068</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc18.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And Park Lawn</Location>
+    <Longitude>-79.48121309</Longitude>
+    <Latitude>43.62309091</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc37.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And Parliament St.</Location>
+    <Longitude>-79.36119843</Longitude>
+    <Latitude>43.64780045</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc4.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And Rees St.</Location>
+    <Longitude>-79.38686371</Longitude>
+    <Latitude>43.63977051</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc11.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And Rememberance</Location>
+    <Longitude>-79.40261078</Longitude>
+    <Latitude>43.63592148</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc15.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And Sunnyside</Location>
+    <Longitude>-79.4495</Longitude>
+    <Latitude>43.6372</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc136.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Lake Shore And Yonge</Location>
+    <Longitude>-79.37558304</Longitude>
+    <Latitude>43.64388257</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc7.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Steeles And Woodbine</Location>
+    <Longitude>-79.34866905</Longitude>
+    <Latitude>43.81412284</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc118.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>University And Adelaide</Location>
+    <Longitude>-79.385464</Longitude>
+    <Latitude>43.648863</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc114.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+  <XMLData>
+    <Location>Warden And Ellesmere</Location>
+    <Longitude>-79.30073261</Longitude>
+    <Latitude>43.76130031</Latitude>
+    <Link>http://opendata.toronto.ca/transportation/cameras/loc117.jpg</Link>
+    <City>Toronto</City>
+  </XMLData>
+</NewDataSet>

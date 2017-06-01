@@ -1,0 +1,77 @@
+Camera Number,Latitude,Longitude,Main Road,Cross Street,Traffic Image,Reference Static Image
+"""Camera 50""",43.7,-79.43655968,Allen Road,Eglinton Ave,http://opendata.toronto.ca/transportation/cameras/loc50.jpg,http://www.toronto.ca/rescu/images/loc50n.jpg
+"""Camera 51""",43.70191335,-79.43731901,Allen Road,Elmridge,http://opendata.toronto.ca/transportation/cameras/loc51.jpg,http://www.toronto.ca/rescu/images/loc51n.jpg
+"""Camera 52""",43.70795507,-79.4408243,Allen Road,Viewmount,http://opendata.toronto.ca/transportation/cameras/loc52.jpg,http://www.toronto.ca/rescu/images/loc52n.jpg
+"""Camera 53""",43.71243895,-79.44328934,Allen Road,Glengrove,http://opendata.toronto.ca/transportation/cameras/loc53.jpg,http://www.toronto.ca/rescu/images/loc53n.jpg
+"""Camera 54""",43.71657142,-79.44510974,Allen Road,Lawrence,http://opendata.toronto.ca/transportation/cameras/loc54.jpg,http://www.toronto.ca/rescu/images/loc54n.jpg
+"""Camera 55""",43.72825016,-79.44866646,Allen Road,HWY 401,http://opendata.toronto.ca/transportation/cameras/loc55.jpg,http://www.toronto.ca/rescu/images/loc55n.jpg
+"""Camera 56""",43.73910478,-79.45237667,Allen Road,Transit Road,http://opendata.toronto.ca/transportation/cameras/loc56.jpg,http://www.toronto.ca/rescu/images/loc56n.jpg
+"""Camera 57""",43.75014442,-79.46367992,Allen Road,Sheppard,http://opendata.toronto.ca/transportation/cameras/loc57.jpg,http://www.toronto.ca/rescu/images/loc57n.jpg
+"""Camera 58""",43.76919207,-79.4674444,Allen Road,Finch,http://opendata.toronto.ca/transportation/cameras/loc58.jpg,http://www.toronto.ca/rescu/images/loc58n.jpg
+"""Camera 2""",43.64989853,-79.34970093,DVP,Gardiner Ramp,http://opendata.toronto.ca/transportation/cameras/loc2.jpg,http://www.toronto.ca/rescu/images/loc2e.jpg
+"""Camera 65""",43.65641565,-79.35187966,DVP,Eastern,http://opendata.toronto.ca/transportation/cameras/loc65.jpg,http://www.toronto.ca/rescu/images/loc65n.jpg
+"""Camera 66""",43.66207405,-79.35486495,DVP,Dundas,http://opendata.toronto.ca/transportation/cameras/loc66.jpg,http://www.toronto.ca/rescu/images/loc66n.jpg
+"""Camera 67""",43.67196915,-79.35903311,DVP,Danforth,http://opendata.toronto.ca/transportation/cameras/loc67.jpg,http://www.toronto.ca/rescu/images/loc67n.jpg
+"""Camera 68""",43.68149406,-79.36279893,DVP,Bloor Ramp,http://opendata.toronto.ca/transportation/cameras/loc68.jpg,http://www.toronto.ca/rescu/images/loc68n.jpg
+"""Camera 69""",43.69345335,-79.35734063,DVP,Beechwood,http://opendata.toronto.ca/transportation/cameras/loc69.jpg,http://www.toronto.ca/rescu/images/loc69n.jpg
+"""Camera 70""",43.69818521,-79.3495515,DVP,Millwood,http://opendata.toronto.ca/transportation/cameras/loc70.jpg,http://www.toronto.ca/rescu/images/loc70n.jpg
+"""Camera 71""",43.70060626,-79.33735549,DVP,Don Mills,http://opendata.toronto.ca/transportation/cameras/loc71.jpg,http://www.toronto.ca/rescu/images/loc71n.jpg
+"""Camera 73""",43.70722511,-79.33147475,DVP,CN Railway,http://opendata.toronto.ca/transportation/cameras/loc73.jpg,http://www.toronto.ca/rescu/images/loc73n.jpg
+"""Camera 74""",43.71268485,-79.32499051,DVP,Spanbridge,http://opendata.toronto.ca/transportation/cameras/loc74.jpg,http://www.toronto.ca/rescu/images/loc74n.jpg
+"""Camera 75""",43.71808399,-79.3273294,DVP,St Dennis,http://opendata.toronto.ca/transportation/cameras/loc75.jpg,http://www.toronto.ca/rescu/images/loc75n.jpg
+"""Camera 76""",43.72377341,-79.3299365,DVP,Eglinton,http://opendata.toronto.ca/transportation/cameras/loc76.jpg,http://www.toronto.ca/rescu/images/loc76n.jpg
+"""Camera 81""",43.726984,-79.330016,DVP,Wynford,http://opendata.toronto.ca/transportation/cameras/loc81.jpg,http://www.toronto.ca/rescu/images/loc81n.jpg
+"""Camera 77""",43.73088393,-79.33060169,DVP,Twin Tunnels,http://opendata.toronto.ca/transportation/cameras/loc77.jpg,http://www.toronto.ca/rescu/images/loc77n.jpg
+"""Camera 78""",43.73983073,-79.33194816,DVP,Lawrence,http://opendata.toronto.ca/transportation/cameras/loc78.jpg,http://www.toronto.ca/rescu/images/loc78n.jpg
+"""Camera 79""",43.75184717,-79.33348909,DVP,Three Valleys,http://opendata.toronto.ca/transportation/cameras/loc79.jpg,http://www.toronto.ca/rescu/images/loc79n.jpg
+"""Camera 80""",43.75795667,-79.33530092,DVP,York Mills,http://opendata.toronto.ca/transportation/cameras/loc80.jpg,http://www.toronto.ca/rescu/images/loc80n.jpg
+"""Camera 72""",43.70896623,-79.33342338,Don Mills,Overlea,http://opendata.toronto.ca/transportation/cameras/loc72.jpg,http://www.toronto.ca/rescu/images/loc72n.jpg
+"""Camera 3""",43.64824534,-79.35967684,Gardiner,Parliament St,http://opendata.toronto.ca/transportation/cameras/loc3.jpg,http://www.toronto.ca/rescu/images/loc3e.jpg
+"""Camera 6""",43.64581299,-79.36993408,Gardiner,Jarvis St.,http://opendata.toronto.ca/transportation/cameras/loc6.jpg,http://www.toronto.ca/rescu/images/loc6e.jpg
+"""Camera 9""",43.64232263,-79.37921673,Gardiner,York,http://opendata.toronto.ca/transportation/cameras/loc9.jpg,http://www.toronto.ca/rescu/images/loc9e.jpg
+"""Camera 10""",43.64097847,-79.38076973,Gardiner,York,http://opendata.toronto.ca/transportation/cameras/loc10.jpg,http://www.toronto.ca/rescu/images/loc10e.jpg
+"""Camera 12""",43.63944113,-79.38698977,Gardiner,Skydome,http://opendata.toronto.ca/transportation/cameras/loc12.jpg,http://www.toronto.ca/rescu/images/loc12e.jpg
+"""Camera 13""",43.63899593,-79.39168701,Gardiner,East of Spadina,http://opendata.toronto.ca/transportation/cameras/loc133.jpg,http://www.toronto.ca/rescu/images/loc133e.jpg
+"""Camera 14""",43.63810193,-79.3945114,Gardiner,Spadina,http://opendata.toronto.ca/transportation/cameras/loc13.jpg,http://www.toronto.ca/rescu/images/loc13e.jpg
+"""Camera 15""",43.63796997,-79.40029907,Gardiner,Bathurst St.,http://opendata.toronto.ca/transportation/cameras/loc14.jpg,http://www.toronto.ca/rescu/images/loc14e.jpg
+"""Camera 17""",43.63740158,-79.41020203,Gardiner,Strachan Ave.,http://opendata.toronto.ca/transportation/cameras/loc16.jpg,http://www.toronto.ca/rescu/images/loc16e.jpg
+"""Camera 21""",43.63451925,-79.42225277,Gardiner,Dufferin St.,http://opendata.toronto.ca/transportation/cameras/loc20.jpg,http://www.toronto.ca/rescu/images/loc20e.jpg
+"""Camera 22""",43.63249969,-79.43119812,Gardiner,Dunn Ave.,http://opendata.toronto.ca/transportation/cameras/loc21.jpg,http://www.toronto.ca/rescu/images/loc21e.jpg
+"""Camera 25""",43.6344986,-79.43840027,Gardiner,Dowling Ave.,http://opendata.toronto.ca/transportation/cameras/loc22.jpg,http://www.toronto.ca/rescu/images/loc22e.jpg
+"""Camera 26""",43.63829809,-79.44996402,Gardiner,Sunnyside,http://opendata.toronto.ca/transportation/cameras/loc23.jpg,http://www.toronto.ca/rescu/images/loc23e.jpg
+"""Camera 29""",43.63700104,-79.46569824,Gardiner,Ellis Ave.,http://opendata.toronto.ca/transportation/cameras/loc24.jpg,http://www.toronto.ca/rescu/images/loc24e.jpg
+"""Camera 31""",43.63507445,-79.46952403,Gardiner,Kingsway,http://opendata.toronto.ca/transportation/cameras/loc25.jpg,http://www.toronto.ca/rescu/images/loc25e.jpg
+"""Camera 32""",43.63153644,-79.47435261,Gardiner,Humber East,http://opendata.toronto.ca/transportation/cameras/loc26.jpg,http://www.toronto.ca/rescu/images/loc26e.jpg
+"""Camera 33""",43.63128149,-79.4747081,Gardiner,At Palace Pier,http://opendata.toronto.ca/transportation/cameras/loc27.jpg,
+"""Camera 34""",43.63130188,-79.47570038,Gardiner,Palace Pier,http://opendata.toronto.ca/transportation/cameras/loc29.jpg,http://www.toronto.ca/rescu/images/loc29e.jpg
+"""Camera 35""",43.6292401,-79.47836395,Gardiner,Lake Shore Blvd W E off Ramp,http://opendata.toronto.ca/transportation/cameras/loc35.jpg,http://www.toronto.ca/rescu/images/loc35e.jpg
+"""Camera 116""",43.65001923,-79.35017109,Gardiner,DVP,http://opendata.toronto.ca/transportation/cameras/loc28.jpg,http://www.toronto.ca/rescu/images/loc28e.jpg
+"""Camera 36""",43.62731381,-79.48184609,Gardiner,Park Lawn Rd.,http://opendata.toronto.ca/transportation/cameras/loc30.jpg,http://www.toronto.ca/rescu/images/loc30e.jpg
+"""Camera 38""",43.62469864,-79.49310303,Gardiner,Grand Ave.,http://opendata.toronto.ca/transportation/cameras/loc31.jpg,http://www.toronto.ca/rescu/images/loc31e.jpg
+"""Camera 39""",43.62274933,-79.50102234,Gardiner,Royal York,http://opendata.toronto.ca/transportation/cameras/loc32.jpg,http://www.toronto.ca/rescu/images/loc32e.jpg
+"""Camera 40""",43.62049866,-79.51326752,Gardiner,Islington Ave.,http://opendata.toronto.ca/transportation/cameras/loc33.jpg,http://www.toronto.ca/rescu/images/loc33e.jpg
+"""Camera 41""",43.61800003,-79.52580261,Gardiner,Kipling Ave.,http://opendata.toronto.ca/transportation/cameras/loc34.jpg,http://www.toronto.ca/rescu/images/loc34e.jpg
+"""Camera 42""",43.61658462,-79.53132783,Gardiner,Wickman Rd,http://opendata.toronto.ca/transportation/cameras/loc42.jpg,http://www.toronto.ca/rescu/images/loc42e.jpg
+"""Camera 43""",43.61484858,-79.54653595,Gardiner,HWY 427,http://opendata.toronto.ca/transportation/cameras/loc36.jpg,http://www.toronto.ca/rescu/images/loc36e.jpg
+"""Camera 1""",43.65110016,-79.3470993,Lake Shore,Don Roadway,http://opendata.toronto.ca/transportation/cameras/loc1.jpg,http://www.toronto.ca/rescu/images/loc1e.jpg
+"""Camera 4""",43.64780045,-79.36119843,Lake Shore,Parliament St.,http://opendata.toronto.ca/transportation/cameras/loc4.jpg,http://www.toronto.ca/rescu/images/loc4e.jpg
+"""Camera 5""",43.64550018,-79.36979675,Lake Shore,Jarvis St.,http://opendata.toronto.ca/transportation/cameras/loc5.jpg,http://www.toronto.ca/rescu/images/loc5e.jpg
+"""Camera 7""",43.64388257,-79.37558304,Lake Shore,Yonge,http://opendata.toronto.ca/transportation/cameras/loc7.jpg,http://www.toronto.ca/rescu/images/loc7e.jpg
+"""Camera 8""",43.64275292,-79.3777449,Lake Shore,Bay,http://opendata.toronto.ca/transportation/cameras/loc8.jpg,http://www.toronto.ca/rescu/images/loc8e.jpg
+"""Camera 11""",43.63977051,-79.38686371,Lake Shore,Rees St.,http://opendata.toronto.ca/transportation/cameras/loc11.jpg,http://www.toronto.ca/rescu/images/loc11e.jpg
+"""Camera 16""",43.63592148,-79.40261078,Lake Shore,Rememberance,http://opendata.toronto.ca/transportation/cameras/loc15.jpg,http://www.toronto.ca/rescu/images/loc15e.jpg
+"""Camera 18""",43.63244247,-79.41098022,Lake Shore,Battery Park,http://opendata.toronto.ca/transportation/cameras/loc17.jpg,http://www.toronto.ca/rescu/images/loc17e.jpg
+"""Camera 19""",43.63042068,-79.42008209,Lake Shore,Ontario Place,http://opendata.toronto.ca/transportation/cameras/loc18.jpg,http://www.toronto.ca/rescu/images/loc18e.jpg
+"""Camera 20""",43.63144684,-79.42917633,Lake Shore,British Columbia,http://opendata.toronto.ca/transportation/cameras/loc19.jpg,http://www.toronto.ca/rescu/images/loc19e.jpg
+"""Camera 23""",43.63161796,-79.43055153,Lake Shore,Dunn,http://opendata.toronto.ca/transportation/cameras/loc134.jpg,http://www.toronto.ca/rescu/images/loc134e.jpg
+"""Camera 24""",43.63223281,-79.43514838,Lake Shore,Jameson,http://opendata.toronto.ca/transportation/cameras/loc135.jpg,http://www.toronto.ca/rescu/images/loc135e.jpg
+"""Camera 27""",43.6372,-79.4495,Lake Shore,Sunnyside,http://opendata.toronto.ca/transportation/cameras/loc136.jpg,http://www.toronto.ca/rescu/images/loc136e.jpg
+"""Camera 28""",43.63798528,-79.45894003,Lake Shore,Colborne Lodge,http://opendata.toronto.ca/transportation/cameras/loc150.jpg,http://www.toronto.ca/rescu/images/loc150e.jpg
+"""Camera 30""",43.63633916,-79.46548462,Lake Shore,Ellis,http://opendata.toronto.ca/transportation/cameras/loc137.jpg,http://www.toronto.ca/rescu/images/loc137e.jpg
+"""Camera 37""",43.62309091,-79.48121309,Lake Shore,Park Lawn,http://opendata.toronto.ca/transportation/cameras/loc37.jpg,http://www.toronto.ca/rescu/images/loc37e.jpg
+"""Camera 120""",43.65920999,-79.32845592,Lake Shore,Leslie St,http://opendata.toronto.ca/transportation/cameras/loc120.jpg,http://www.toronto.ca/rescu/images/loc120e.jpg
+"""Camera 114""",43.648863,-79.385464,University,Adelaide,http://opendata.toronto.ca/transportation/cameras/loc114.jpg,
+"""Camera 115""",43.65123,-79.381438,Bay,Richmond,http://opendata.toronto.ca/transportation/cameras/loc115.jpg,
+"""Camera 117""",43.76130031,-79.30073261,Warden,Ellesmere,http://opendata.toronto.ca/transportation/cameras/loc117.jpg,
+"""Camera 118""",43.81412284,-79.34866905,Steeles,Woodbine,http://opendata.toronto.ca/transportation/cameras/loc118.jpg,
+"""Camera 119""",43.70504961,-79.49410915,Black Creek Dr,Lawrence Ave W,http://opendata.toronto.ca/transportation/cameras/loc119.jpg,

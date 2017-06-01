@@ -1,0 +1,201 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <XMLData>
+    <Location>Albert Street and Booth Street</Location>
+    <Longitude>-75.712647</Longitude>
+    <Latitude>45.412904</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Albert Street and Kent Street</Location>
+    <Longitude>-75.702375</Longitude>
+    <Latitude>45.419013</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Aviation Parkway and Ogilvie Road</Location>
+    <Longitude>-75.627026</Longitude>
+    <Latitude>45.427967</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Bank Street and Heron Road</Location>
+    <Longitude>-75.667534</Longitude>
+    <Latitude>45.378578</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Bank Street and Hunt Club Road</Location>
+    <Longitude>-75.647371</Longitude>
+    <Latitude>45.353708</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Bank Street and Riverside Drive</Location>
+    <Longitude>-75.677272</Longitude>
+    <Latitude>45.388818</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Baseline Road and Merivale Road</Location>
+    <Longitude>-75.730847</Longitude>
+    <Latitude>45.365274</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Blair Road and Highway 174 Westbound/Gloucester Center</Location>
+    <Longitude>-75.607443</Longitude>
+    <Latitude>45.433358</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Booth Street and Wellington Street</Location>
+    <Longitude>-75.714681</Longitude>
+    <Latitude>45.416264</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Bronson Avenue and Carling Avenue</Location>
+    <Longitude>-75.699736</Longitude>
+    <Latitude>45.401102</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Bronson Avenue and Commissioner Street/Slater Street</Location>
+    <Longitude>-75.708185</Longitude>
+    <Latitude>45.415713</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Carling Avenue and Island Park Drive</Location>
+    <Longitude>-75.726708</Longitude>
+    <Latitude>45.389251</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Carling Avenue and Richmond Road</Location>
+    <Longitude>-75.792291</Longitude>
+    <Latitude>45.360715</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Catherine Street and Kent Street</Location>
+    <Longitude>-75.693735</Longitude>
+    <Latitude>45.408832</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Catherine Street and O'Connor Street/417 Westbound On Ramp</Location>
+    <Longitude>-75.689412</Longitude>
+    <Latitude>45.41061</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Charlemange Boulevard/Tompkins Avenue and Tenth Line Road</Location>
+    <Longitude>-75.497382</Longitude>
+    <Latitude>45.47735</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Conroy Road and Lorry Greenberg Drive</Location>
+    <Longitude>-75.622138</Longitude>
+    <Latitude>45.369437</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Coventry/Ogilvie Road and St. Laurent Boulevard</Location>
+    <Longitude>-75.637318</Longitude>
+    <Latitude>45.424218</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Cyrville Road and Innes Road</Location>
+    <Longitude>-75.602436</Longitude>
+    <Latitude>45.416483</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Eagleson Road and Hazeldean Road</Location>
+    <Longitude>-75.876804</Longitude>
+    <Latitude>45.304043</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Elgin Street/Pretoria Bridge and Queen Elizabeth Drive</Location>
+    <Longitude>-75.684064</Longitude>
+    <Latitude>45.411327</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Fisher Avenue and Meadowlands Drive</Location>
+    <Longitude>-75.711413</Longitude>
+    <Latitude>45.362646</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Greenbank Road and Berrigan Drive/Wessex Road</Location>
+    <Longitude>-75.748985</Longitude>
+    <Latitude>45.274938</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Heron Road and Riverside Drive</Location>
+    <Longitude>-75.691496</Longitude>
+    <Latitude>45.376827</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Holland Avenue and Island Park Drive/NCC Driveway</Location>
+    <Longitude>-75.725758</Longitude>
+    <Latitude>45.388542</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>King Edward Avenue and St. Patrick Street</Location>
+    <Longitude>-75.688989</Longitude>
+    <Latitude>45.432538</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>March Road/Eaglson Road and Campeau Drive/417 Westbound Off Ramp</Location>
+    <Longitude>-75.887139</Longitude>
+    <Latitude>45.322535</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Merivale Road and Meadowlands Drive</Location>
+    <Longitude>-75.733542</Longitude>
+    <Latitude>45.350894</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Place D'OrlÃ©ans Drive/Duford Drive and St. Joseph Boulevard</Location>
+    <Longitude>-75.512603</Longitude>
+    <Latitude>45.477663</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Smyth Road and Saunderson Drive</Location>
+    <Longitude>-75.631485</Longitude>
+    <Latitude>45.400525</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>St. Laurent Boulevard and Belfast Road</Location>
+    <Longitude>-75.630451</Longitude>
+    <Latitude>45.411824</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Strandherd Drive and Jockvale Road</Location>
+    <Longitude>-75.751094</Longitude>
+    <Latitude>45.26869</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+  <XMLData>
+    <Location>Walkley Road and Russell Road/Hawthorn Road</Location>
+    <Longitude>-75.607583</Longitude>
+    <Latitude>45.392854</Latitude>
+    <City>Ottawa</City>
+  </XMLData>
+</NewDataSet>

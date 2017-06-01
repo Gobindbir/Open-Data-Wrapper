@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<id>1</id>
+		<location_desc>Albert Street and Kent Street</location_desc>
+		<longitude>-75.702375</longitude>
+		<latitude>45.419013</latitude>
+	</record>
+	<record>
+		<id>2</id>
+		<location_desc>Bank Street and Hunt Club Road</location_desc>
+		<longitude>-75.647371</longitude>
+		<latitude>45.353708</latitude>
+	</record>
+	<record>
+		<id>3</id>
+		<location_desc>Bank Street and Riverside Drive</location_desc>
+		<longitude>-75.677272</longitude>
+		<latitude>45.388818</latitude>
+	</record>
+	<record>
+		<id>4</id>
+		<location_desc>Baseline Road and Merivale Road</location_desc>
+		<longitude>-75.730847</longitude>
+		<latitude>45.365274</latitude>
+	</record>
+	<record>
+		<id>5</id>
+		<location_desc>Booth Street and Wellington Street</location_desc>
+		<longitude>-75.714681</longitude>
+		<latitude>45.416264</latitude>
+	</record>
+	<record>
+		<id>6</id>
+		<location_desc>Bronson Avenue and Carling Avenue</location_desc>
+		<longitude>-75.699736</longitude>
+		<latitude>45.401102</latitude>
+	</record>
+	<record>
+		<id>7</id>
+		<location_desc>Carling Avenue and Richmond Road</location_desc>
+		<longitude>-75.792291</longitude>
+		<latitude>45.360715</latitude>
+	</record>
+	<record>
+		<id>8</id>
+		<location_desc>Carling Avenue and Island Park Drive</location_desc>
+		<longitude>-75.726708</longitude>
+		<latitude>45.389251</latitude>
+	</record>
+	<record>
+		<id>9</id>
+		<location_desc>Catherine Street and Kent Street</location_desc>
+		<longitude>-75.693735</longitude>
+		<latitude>45.408832</latitude>
+	</record>
+	<record>
+		<id>10</id>
+		<location_desc>Catherine Street and O'Connor Street/417 Westbound On Ramp</location_desc>
+		<longitude>-75.689412</longitude>
+		<latitude>45.41061</latitude>
+	</record>
+	<record>
+		<id>11</id>
+		<location_desc>Charlemange Boulevard/Tompkins Avenue and Tenth Line Road</location_desc>
+		<longitude>-75.497382</longitude>
+		<latitude>45.47735</latitude>
+	</record>
+	<record>
+		<id>12</id>
+		<location_desc>Coventry/Ogilvie Road and St. Laurent Boulevard</location_desc>
+		<longitude>-75.637318</longitude>
+		<latitude>45.424218</latitude>
+	</record>
+	<record>
+		<id>13</id>
+		<location_desc>Eagleson Road and Hazeldean Road</location_desc>
+		<longitude>-75.876804</longitude>
+		<latitude>45.304043</latitude>
+	</record>
+	<record>
+		<id>14</id>
+		<location_desc>Heron Road and Riverside Drive</location_desc>
+		<longitude>-75.691496</longitude>
+		<latitude>45.376827</latitude>
+	</record>
+	<record>
+		<id>15</id>
+		<location_desc>March Road/Eaglson Road and Campeau Drive/417 Westbound Off Ramp</location_desc>
+		<longitude>-75.887139</longitude>
+		<latitude>45.322535</latitude>
+	</record>
+	<record>
+		<id>16</id>
+		<location_desc>Merivale Road and Meadowlands Drive</location_desc>
+		<longitude>-75.733542</longitude>
+		<latitude>45.350894</latitude>
+	</record>
+	<record>
+		<id>17</id>
+		<location_desc>St. Laurent Boulevard and Belfast Road</location_desc>
+		<longitude>-75.630451</longitude>
+		<latitude>45.411824</latitude>
+	</record>
+	<record>
+		<id>18</id>
+		<location_desc>Walkley Road and Russell Road/Hawthorn Road</location_desc>
+		<longitude>-75.607583</longitude>
+		<latitude>45.392854</latitude>
+	</record>
+	<record>
+		<id>19</id>
+		<location_desc>King Edward Avenue and St. Patrick Street</location_desc>
+		<longitude>-75.688989</longitude>
+		<latitude>45.432538</latitude>
+	</record>
+	<record>
+		<id>20</id>
+		<location_desc>Bronson Avenue and Commissioner Street/Slater Street</location_desc>
+		<longitude>-75.708185</longitude>
+		<latitude>45.415713</latitude>
+	</record>
+	<record>
+		<id>21</id>
+		<location_desc>Albert Street and Booth Street</location_desc>
+		<longitude>-75.712647</longitude>
+		<latitude>45.412904</latitude>
+	</record>
+	<record>
+		<id>22</id>
+		<location_desc>Bank Street and Heron Road</location_desc>
+		<longitude>-75.667534</longitude>
+		<latitude>45.378578</latitude>
+	</record>
+	<record>
+		<id>23</id>
+		<location_desc>Cyrville Road and Innes Road</location_desc>
+		<longitude>-75.602436</longitude>
+		<latitude>45.416483</latitude>
+	</record>
+	<record>
+		<id>24</id>
+		<location_desc>Place D'OrlÃ©ans Drive/Duford Drive and St. Joseph Boulevard</location_desc>
+		<longitude>-75.512603</longitude>
+		<latitude>45.477663</latitude>
+	</record>
+	<record>
+		<id>25</id>
+		<location_desc>Greenbank Road and Berrigan Drive/Wessex Road</location_desc>
+		<longitude>-75.748985</longitude>
+		<latitude>45.274938</latitude>
+	</record>
+	<record>
+		<id>26</id>
+		<location_desc>Holland Avenue and Island Park Drive/NCC Driveway</location_desc>
+		<longitude>-75.725758</longitude>
+		<latitude>45.388542</latitude>
+	</record>
+	<record>
+		<id>27</id>
+		<location_desc>Conroy Road and Lorry Greenberg Drive</location_desc>
+		<longitude>-75.622138</longitude>
+		<latitude>45.369437</latitude>
+	</record>
+	<record>
+		<id>28</id>
+		<location_desc>Aviation Parkway and Ogilvie Road</location_desc>
+		<longitude>-75.627026</longitude>
+		<latitude>45.427967</latitude>
+	</record>
+	<record>
+		<id>29</id>
+		<location_desc>Elgin Street/Pretoria Bridge and Queen Elizabeth Drive</location_desc>
+		<longitude>-75.684064</longitude>
+		<latitude>45.411327</latitude>
+	</record>
+	<record>
+		<id>30</id>
+		<location_desc>Fisher Avenue and Meadowlands Drive</location_desc>
+		<longitude>-75.711413</longitude>
+		<latitude>45.362646</latitude>
+	</record>
+	<record>
+		<id>31</id>
+		<location_desc>Smyth Road and Saunderson Drive</location_desc>
+		<longitude>-75.631485</longitude>
+		<latitude>45.400525</latitude>
+	</record>
+	<record>
+		<id>32</id>
+		<location_desc>Strandherd Drive and Jockvale Road</location_desc>
+		<longitude>-75.751094</longitude>
+		<latitude>45.26869</latitude>
+	</record>
+	<record>
+		<id>33</id>
+		<location_desc>Blair Road and Highway 174 Westbound/Gloucester Center</location_desc>
+		<longitude>-75.607443</longitude>
+		<latitude>45.433358</latitude>
+	</record>
+</data-set>
